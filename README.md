@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 _Code is like humor. When you have to explain it, it’s bad._
+💬 *The decisions of our past are the architects of our present.*
 
-— **Cory House**
+— **Dan Brown**
 
-Updated at: 2025-10-10T09:30:17Z
+Updated at: 2025-10-10T10:35:57Z
