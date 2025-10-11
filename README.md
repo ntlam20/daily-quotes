@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *The decisions of our past are the architects of our present.*
+💬 *Genius is the ability to act rightly without precedent - the power to do the right thing the first time.*
 
-— **Dan Brown**
+— **Elbert Hubbard**
 
-Updated at: 2025-10-10T10:35:57Z
+Updated at: 2025-10-11T00:56:46Z
