@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Genius is the ability to act rightly without precedent - the power to do the right thing the first time.*
+💬 *Do not ignore the passion that burns in you. Spend time to discover your gift.*
 
-— **Elbert Hubbard**
+— **Steve Harvey**
 
-Updated at: 2025-10-11T00:56:46Z
+Updated at: 2025-10-12T01:02:10Z
