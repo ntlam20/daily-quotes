@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Human behavior flows from three main sources: desire, emotion, and knowledge.*
+💬 *Make peace within, and there will be no one who can overcome you. And no one you will wish to overcome.*
 
-— **Plato**
+— **Dan Millman**
 
-Updated at: 2025-10-13T01:03:32Z
+Updated at: 2025-10-14T00:59:25Z
