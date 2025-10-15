@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Make peace within, and there will be no one who can overcome you. And no one you will wish to overcome.*
+💬 *What are we doing here, that is the question.*
 
-— **Dan Millman**
+— **Samuel Beckett**
 
-Updated at: 2025-10-14T00:59:25Z
+Updated at: 2025-10-15T01:01:06Z
