@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *A day without laughter is a day wasted.*
+💬 *We will outstretch the hand if you unclench your fist.*
 
-— **Charlie Chaplin**
+— **Barack Obama**
 
-Updated at: 2025-10-17T01:00:05Z
+Updated at: 2025-10-18T00:57:32Z
