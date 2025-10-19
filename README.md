@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *We will outstretch the hand if you unclench your fist.*
+💬 *Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding.*
 
-— **Barack Obama**
+— **John D. Rockefeller**
 
-Updated at: 2025-10-18T00:57:32Z
+Updated at: 2025-10-19T01:07:19Z
