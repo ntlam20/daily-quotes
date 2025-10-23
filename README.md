@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *No duty is more urgent than that of returning thanks.*
+💬 *Knowledge is learning something everyday. Wisdom is letting go of something everyday.*
 
-— **James Allen**
+— **Unknown**
 
-Updated at: 2025-10-22T01:02:50Z
+Updated at: 2025-10-23T01:01:34Z
