@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Knowledge is learning something everyday. Wisdom is letting go of something everyday.*
+💬 *Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now.*
 
-— **Unknown**
+— **Ralph Marston**
 
-Updated at: 2025-10-23T01:01:34Z
+Updated at: 2025-10-24T00:57:59Z
