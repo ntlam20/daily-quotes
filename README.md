@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now.*
+💬 *Talent is luck. The important thing in life is courage.*
 
-— **Ralph Marston**
+— **Woody Allen**
 
-Updated at: 2025-10-24T00:57:59Z
+Updated at: 2025-10-25T00:59:29Z
