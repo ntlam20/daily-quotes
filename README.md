@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Talent is luck. The important thing in life is courage.*
+💬 *What worries you, masters you.*
 
-— **Woody Allen**
+— **John Locke**
 
-Updated at: 2025-10-25T00:59:29Z
+Updated at: 2025-10-26T01:06:01Z
