@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *What worries you, masters you.*
+💬 *Normality is a paved road: It's comfortable to walk, but no flowers grow on it.*
 
-— **John Locke**
+— **Vincent van Gogh**
 
-Updated at: 2025-10-26T01:06:01Z
+Updated at: 2025-10-27T01:07:10Z
