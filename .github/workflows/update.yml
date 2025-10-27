@@ -1,4 +1,4 @@
-name: "Cronjob"
+name: "Daily Cronjob"
 
 on:
   schedule:
@@ -11,7 +11,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Go
         uses: actions/setup-go@v5
@@ -23,8 +26,13 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add .
-          git commit -m "Update daily quote"
-          git push origin develop
+          git config user.name "ntlam20"
+          git config user.email "nguyenthanhlam1070@gmail.com"
+
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git add .
+            git commit -m "Cronjob"
+            git push origin develop
+          else
+            echo "No changes to commit"
+          fi
