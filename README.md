@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Debt is the slavery of the free.*
+💬 *Death is not an ending. It is a transformation.*
 
-— **Publilius Syrus**
+— **Ming-Dao Deng**
 
-Updated at: 2025-10-27T02:57:45Z
+Updated at: 2025-10-28T01:00:29Z
