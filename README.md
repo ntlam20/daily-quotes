@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Death is not an ending. It is a transformation.*
+💬 *It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power!*
 
-— **Ming-Dao Deng**
+— **Robert Kiyosaki**
 
-Updated at: 2025-10-28T01:00:29Z
+Updated at: 2025-10-29T01:04:44Z
