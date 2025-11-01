@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Write to help yourself, publish to help others.*
+💬 *In spite of everything, I shall rise again.*
 
-— **Jack Butcher**
+— **Vincent van Gogh**
 
-Updated at: 2025-10-31T01:02:18Z
+Updated at: 2025-11-01T01:05:47Z
