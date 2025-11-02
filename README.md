@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *In spite of everything, I shall rise again.*
+💬 *The more we value things, the less we value ourselves.  *
 
-— **Vincent van Gogh**
+— **Bruce Lee**
 
-Updated at: 2025-11-01T01:05:47Z
+Updated at: 2025-11-02T01:06:31Z
