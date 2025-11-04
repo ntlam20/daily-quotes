@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Keep your dreams, you never know when you might need them.*
+💬 *Those who dream by day are cognizant of many things which escape those who dream only by night.*
 
-— **Carlos Ruiz Zafon**
+— **Vincent van Gogh**
 
-Updated at: 2025-11-03T01:05:32Z
+Updated at: 2025-11-04T01:02:49Z
