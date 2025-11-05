@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Those who dream by day are cognizant of many things which escape those who dream only by night.*
+💬 *Passion is energy. Feel the power that comes from focusing on what excites you. *
 
-— **Vincent van Gogh**
+— **Oprah Winfrey**
 
-Updated at: 2025-11-04T01:02:49Z
+Updated at: 2025-11-05T01:04:33Z
