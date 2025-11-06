@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Passion is energy. Feel the power that comes from focusing on what excites you. *
+💬 *If we are not able to smile, then the world will not have peace.*
 
-— **Oprah Winfrey**
+— **Thich Nhat Hanh**
 
-Updated at: 2025-11-05T01:04:33Z
+Updated at: 2025-11-06T01:03:31Z
