@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *If we are not able to smile, then the world will not have peace.*
+💬 *Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results.*
 
-— **Thich Nhat Hanh**
+— **James Allen**
 
-Updated at: 2025-11-06T01:03:31Z
+Updated at: 2025-11-07T01:02:54Z
