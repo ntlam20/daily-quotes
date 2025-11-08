@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results.*
+💬 *You can't climb the ladder of success with your hands in your pockets.*
 
-— **James Allen**
+— **Arnold Schwarzenegger**
 
-Updated at: 2025-11-07T01:02:54Z
+Updated at: 2025-11-08T01:00:10Z
