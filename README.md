@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *You can't climb the ladder of success with your hands in your pockets.*
+💬 *In order to be irreplaceable one must always be different.*
 
-— **Arnold Schwarzenegger**
+— **Coco Chanel**
 
-Updated at: 2025-11-08T01:00:10Z
+Updated at: 2025-11-09T01:06:30Z
