@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *In order to be irreplaceable one must always be different.*
+💬 *Nothing endures but change.*
 
-— **Coco Chanel**
+— **Heraclitus**
 
-Updated at: 2025-11-09T01:06:30Z
+Updated at: 2025-11-10T01:06:03Z
