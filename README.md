@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Whatever you believe with feeling becomes your reality. *
+💬 *We ordinary people must forge our own beauty.*
 
-— **Brian Tracy**
+— **Kenji Miyazawa**
 
-Updated at: 2025-11-12T01:03:53Z
+Updated at: 2025-11-13T01:04:02Z
