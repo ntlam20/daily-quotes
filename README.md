@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *We ordinary people must forge our own beauty.*
+💬 *It is impossible for a man to learn what he thinks he already knows.*
 
-— **Kenji Miyazawa**
+— **Epictetus**
 
-Updated at: 2025-11-13T01:04:02Z
+Updated at: 2025-11-14T01:03:33Z
