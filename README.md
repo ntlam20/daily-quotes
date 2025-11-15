@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *It is impossible for a man to learn what he thinks he already knows.*
+💬 *To travel is to be alive, but to get somewhere is to be dead.*
 
-— **Epictetus**
+— **Alan Watts**
 
-Updated at: 2025-11-14T01:03:33Z
+Updated at: 2025-11-15T01:02:09Z
