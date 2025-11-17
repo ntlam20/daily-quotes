@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *There is no fear for one whose mind is not filled with desires.*
+💬 *Death is as sure for that which is born, as birth is for that which is dead. Therefore grieve not for what is inevitable.*
 
-— **Buddha**
+— **Bhagavad Gita**
 
-Updated at: 2025-11-16T01:07:52Z
+Updated at: 2025-11-17T01:04:49Z
