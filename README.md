@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Death is as sure for that which is born, as birth is for that which is dead. Therefore grieve not for what is inevitable.*
+💬 *Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.*
 
-— **Bhagavad Gita**
+— **Sun Tzu**
 
-Updated at: 2025-11-17T01:04:49Z
+Updated at: 2025-11-18T01:03:08Z
