@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.*
+💬 *The constant assertion of belief is an indication of fear.*
 
-— **Sun Tzu**
+— **Jiddu Krishnamurti**
 
-Updated at: 2025-11-18T01:03:08Z
+Updated at: 2025-11-19T01:03:29Z
