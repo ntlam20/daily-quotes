@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *The constant assertion of belief is an indication of fear.*
+💬 *Go confidently in the direction of your dreams. Live the life you've imagined.*
 
-— **Jiddu Krishnamurti**
+— **Arnold Schwarzenegger**
 
-Updated at: 2025-11-19T01:03:29Z
+Updated at: 2025-11-20T01:02:10Z
