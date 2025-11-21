@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Go confidently in the direction of your dreams. Live the life you've imagined.*
+💬 *The way to change others' minds is with affection, and not anger.*
 
-— **Arnold Schwarzenegger**
+— **Dalai Lama**
 
-Updated at: 2025-11-20T01:02:10Z
+Updated at: 2025-11-21T01:02:56Z
