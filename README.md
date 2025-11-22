@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *The way to change others' minds is with affection, and not anger.*
+💬 *Anyone telling you it's pointless to share your perspective is sharing their perspective.*
 
-— **Dalai Lama**
+— **Jack Butcher**
 
-Updated at: 2025-11-21T01:02:56Z
+Updated at: 2025-11-22T01:00:40Z
