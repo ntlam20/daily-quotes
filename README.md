@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Love is the expression of one's values.*
+💬 *Most people fail in life not because they aim too high and miss, but because they aim too low and hit.*
 
-— **Ayn Rand**
+— **Les Brown**
 
-Updated at: 2025-11-23T01:12:01Z
+Updated at: 2025-11-24T01:07:41Z
