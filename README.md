@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Most people fail in life not because they aim too high and miss, but because they aim too low and hit.*
+💬 *The only normal people are the ones you don't know very well.*
 
-— **Les Brown**
+— **Alfred Adler**
 
-Updated at: 2025-11-24T01:07:41Z
+Updated at: 2025-11-25T01:03:28Z
