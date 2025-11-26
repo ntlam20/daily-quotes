@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *The only normal people are the ones you don't know very well.*
+💬 *Deeds will not be less valiant because they are upraised.*
 
-— **Alfred Adler**
+— **J.R.R. Tolkien**
 
-Updated at: 2025-11-25T01:03:28Z
+Updated at: 2025-11-26T01:03:39Z
