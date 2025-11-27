@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Deeds will not be less valiant because they are upraised.*
+💬 *Understanding that rests in what it does not understand is the finest.*
 
-— **J.R.R. Tolkien**
+— **Zhuangzi**
 
-Updated at: 2025-11-26T01:03:39Z
+Updated at: 2025-11-27T01:02:35Z
