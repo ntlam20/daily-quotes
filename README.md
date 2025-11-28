@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Understanding that rests in what it does not understand is the finest.*
+💬 *Only by acceptance of the past, can you alter it.*
 
-— **Zhuangzi**
+— **T.S. Eliot**
 
-Updated at: 2025-11-27T01:02:35Z
+Updated at: 2025-11-28T01:01:53Z
