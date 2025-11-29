@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Only by acceptance of the past, can you alter it.*
+💬 *The question isn't who is going to let me; it's who is going to stop me.*
 
-— **T.S. Eliot**
+— **Ayn Rand**
 
-Updated at: 2025-11-28T01:01:53Z
+Updated at: 2025-11-29T01:02:19Z
