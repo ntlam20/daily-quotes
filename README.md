@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *The question isn't who is going to let me; it's who is going to stop me.*
+💬 *Failure is simply the opportunity to begin again, this time more intelligently.*
 
-— **Ayn Rand**
+— **Henry Ford**
 
-Updated at: 2025-11-29T01:02:19Z
+Updated at: 2025-11-30T01:11:27Z
