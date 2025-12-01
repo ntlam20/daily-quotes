@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Failure is simply the opportunity to begin again, this time more intelligently.*
+💬 *There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will.*
 
-— **Henry Ford**
+— **Epictetus**
 
-Updated at: 2025-11-30T01:11:27Z
+Updated at: 2025-12-01T01:16:12Z
