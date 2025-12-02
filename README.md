@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will.*
+💬 *It will never rain roses: when we want to have more roses, we must plant more roses.*
 
-— **Epictetus**
+— **George Eliot**
 
-Updated at: 2025-12-01T01:16:12Z
+Updated at: 2025-12-02T01:05:05Z
