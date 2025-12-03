@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *It will never rain roses: when we want to have more roses, we must plant more roses.*
+💬 *The way to get started is to quit talking and begin doing.*
 
-— **George Eliot**
+— **Walt Disney**
 
-Updated at: 2025-12-02T01:05:05Z
+Updated at: 2025-12-03T01:05:40Z
