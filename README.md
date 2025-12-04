@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *The way to get started is to quit talking and begin doing.*
+💬 *Everyone sees what you appear to be, few experience what you really are.*
 
-— **Walt Disney**
+— **Niccolo Machiavelli**
 
-Updated at: 2025-12-03T01:05:40Z
+Updated at: 2025-12-04T01:05:04Z
