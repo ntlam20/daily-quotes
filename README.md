@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Everyone sees what you appear to be, few experience what you really are.*
+💬 *I've always lived in the moment.*
 
-— **Niccolo Machiavelli**
+— **Yanni**
 
-Updated at: 2025-12-04T01:05:04Z
+Updated at: 2025-12-05T01:05:27Z
