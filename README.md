@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *I've always lived in the moment.*
+💬 *Make peace with your inner turmoil.*
 
-— **Yanni**
+— **Unknown**
 
-Updated at: 2025-12-05T01:05:27Z
+Updated at: 2025-12-06T01:02:14Z
