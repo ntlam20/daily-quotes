@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Make peace with your inner turmoil.*
+💬 *Enthusiasm makes up for a host of deficiencies.*
 
-— **Unknown**
+— **Barack Obama**
 
-Updated at: 2025-12-06T01:02:14Z
+Updated at: 2025-12-07T01:11:48Z
