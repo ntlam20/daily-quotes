@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Enthusiasm makes up for a host of deficiencies.*
+💬 *Our happiness depends on the habit of mind we cultivate.*
 
-— **Barack Obama**
+— **Norman Vincent Peale**
 
-Updated at: 2025-12-07T01:11:48Z
+Updated at: 2025-12-08T01:05:57Z
