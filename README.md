@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Our happiness depends on the habit of mind we cultivate.*
+💬 *No one can confidently say that he will still be living tomorrow.*
 
-— **Norman Vincent Peale**
+— **Euripides**
 
-Updated at: 2025-12-08T01:05:57Z
+Updated at: 2025-12-09T01:04:54Z
