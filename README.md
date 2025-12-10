@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *No one can confidently say that he will still be living tomorrow.*
+💬 *Wake up and smile! Wake up and be grateful!*
 
-— **Euripides**
+— **Steve Harvey**
 
-Updated at: 2025-12-09T01:04:54Z
+Updated at: 2025-12-10T01:07:05Z
