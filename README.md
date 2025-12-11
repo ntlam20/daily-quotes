@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Wake up and smile! Wake up and be grateful!*
+💬 *The real measure of your wealth is how much you'd be worth if you lost all your money.*
 
-— **Steve Harvey**
+— **Unknown**
 
-Updated at: 2025-12-10T01:07:05Z
+Updated at: 2025-12-11T01:07:48Z
