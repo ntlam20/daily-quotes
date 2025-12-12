@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *The real measure of your wealth is how much you'd be worth if you lost all your money.*
+💬 *Dreams are the royal road to the unconscious. *
 
-— **Unknown**
+— **Sigmund Freud**
 
-Updated at: 2025-12-11T01:07:48Z
+Updated at: 2025-12-12T01:07:27Z
