@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Dreams are the royal road to the unconscious. *
+💬 *It is not how much we have, but how much we enjoy, that makes happiness.*
 
-— **Sigmund Freud**
+— **Charles Spurgeon**
 
-Updated at: 2025-12-12T01:07:27Z
+Updated at: 2025-12-13T01:03:12Z
