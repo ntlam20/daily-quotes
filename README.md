@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *It is not how much we have, but how much we enjoy, that makes happiness.*
+💬 *Good luck is opportunity meeting preparedness.*
 
-— **Charles Spurgeon**
+— **Deepak Chopra**
 
-Updated at: 2025-12-13T01:03:12Z
+Updated at: 2025-12-14T01:12:09Z
