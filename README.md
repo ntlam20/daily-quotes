@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *We are all born ignorant, but one must work hard to remain stupid.*
+💬 *Among the things you can give and still keep are your word, a smile, and a grateful heart.*
 
-— **Benjamin Franklin**
+— **Zig Ziglar**
 
-Updated at: 2025-12-16T01:08:27Z
+Updated at: 2025-12-17T01:03:15Z
