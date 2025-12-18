@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Among the things you can give and still keep are your word, a smile, and a grateful heart.*
+💬 *Ponder and deliberate before you make a move.*
 
-— **Zig Ziglar**
+— **Sun Tzu**
 
-Updated at: 2025-12-17T01:03:15Z
+Updated at: 2025-12-18T01:04:31Z
