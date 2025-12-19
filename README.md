@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Ponder and deliberate before you make a move.*
+💬 *The only way round is through.*
 
-— **Sun Tzu**
+— **Robert Frost**
 
-Updated at: 2025-12-18T01:04:31Z
+Updated at: 2025-12-19T01:08:02Z
