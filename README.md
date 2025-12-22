@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *New opinions are always suspected, and usually opposed, without any other reason but because they are not common.*
+💬 *Plants grow weak without wind.*
 
-— **John Locke**
+— **Maxime Lagace**
 
-Updated at: 2025-12-21T01:12:01Z
+Updated at: 2025-12-22T01:10:58Z
