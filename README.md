@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Plants grow weak without wind.*
+💬 *Too many of us are not living our dreams because we are living our fears.*
 
-— **Maxime Lagace**
+— **Les Brown**
 
-Updated at: 2025-12-22T01:10:58Z
+Updated at: 2025-12-23T01:07:29Z
