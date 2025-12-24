@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Too many of us are not living our dreams because we are living our fears.*
+💬 *We have a choice everyday regarding the attitude we will embrace for that day.*
 
-— **Les Brown**
+— **Charles Swindoll**
 
-Updated at: 2025-12-23T01:07:29Z
+Updated at: 2025-12-24T01:06:29Z
