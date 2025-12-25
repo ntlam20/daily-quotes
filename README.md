@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *We have a choice everyday regarding the attitude we will embrace for that day.*
+💬 *Admire as much as you can. Most people do not admire enough.*
 
-— **Charles Swindoll**
+— **Vincent van Gogh**
 
-Updated at: 2025-12-24T01:06:29Z
+Updated at: 2025-12-25T01:07:27Z
