@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Sometimes you put walls up not to keep people out, but to see who cares enough to break them down.*
+💬 *Every failure brings with it the seed of an equivalent success.*
 
-— **Socrates**
+— **Napoleon Hill**
 
-Updated at: 2025-12-26T01:07:46Z
+Updated at: 2025-12-27T01:05:55Z
