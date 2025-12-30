@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Only when you can be extremely pliable and soft can you be extremely hard and strong.*
+💬 *When you are tough on yourself, life is going to be infinitely easier on you.  *
 
-— **Zen Proverb**
+— **Zig Ziglar**
 
-Updated at: 2025-12-29T01:13:26Z
+Updated at: 2025-12-30T01:07:44Z
