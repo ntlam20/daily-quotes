@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *When you are tough on yourself, life is going to be infinitely easier on you.  *
+💬 *He who cannot be a good follower cannot be a good leader.*
 
-— **Zig Ziglar**
+— **Aristotle**
 
-Updated at: 2025-12-30T01:07:44Z
+Updated at: 2025-12-31T01:09:13Z
