@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *He who cannot be a good follower cannot be a good leader.*
+💬 *There is no greatness where there is not simplicity, goodness, and truth.*
 
-— **Aristotle**
+— **Leo Tolstoy**
 
-Updated at: 2025-12-31T01:09:13Z
+Updated at: 2026-01-01T01:15:19Z
