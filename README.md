@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *There is no greatness where there is not simplicity, goodness, and truth.*
+💬 *Emancipate yourself from mental slavery, none but ourselves can free our mind.*
 
-— **Leo Tolstoy**
+— **Bob Marley**
 
-Updated at: 2026-01-01T01:15:19Z
+Updated at: 2026-01-02T01:09:33Z
