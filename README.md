@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Emancipate yourself from mental slavery, none but ourselves can free our mind.*
+💬 *Your only limitations are those you set up in your mind or permit others to set up for you.*
 
-— **Bob Marley**
+— **Og Mandino**
 
-Updated at: 2026-01-02T01:09:33Z
+Updated at: 2026-01-03T01:04:48Z
