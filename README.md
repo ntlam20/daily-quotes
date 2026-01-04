@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Your only limitations are those you set up in your mind or permit others to set up for you.*
+💬 *Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose.*
 
-— **Og Mandino**
+— **Simon Sinek**
 
-Updated at: 2026-01-03T01:04:48Z
+Updated at: 2026-01-04T01:16:32Z
