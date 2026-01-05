@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose.*
+💬 *It does not do to dwell on dreams and forget to live, remember that.*
 
-— **Simon Sinek**
+— **Albus Dumbledore**
 
-Updated at: 2026-01-04T01:16:32Z
+Updated at: 2026-01-05T01:15:24Z
