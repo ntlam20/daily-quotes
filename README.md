@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *It does not do to dwell on dreams and forget to live, remember that.*
+💬 *Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience.*
 
-— **Albus Dumbledore**
+— **Denis Waitley**
 
-Updated at: 2026-01-05T01:15:24Z
+Updated at: 2026-01-06T01:09:00Z
