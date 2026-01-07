@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience.*
+💬 *If we know how to adapt, we end up being superior.*
 
-— **Denis Waitley**
+— **Ming-Dao Deng**
 
-Updated at: 2026-01-06T01:09:00Z
+Updated at: 2026-01-07T01:09:49Z
