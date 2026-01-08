@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *If we know how to adapt, we end up being superior.*
+💬 *The way to change others' minds is with affection, and not anger.*
 
-— **Ming-Dao Deng**
+— **Dalai Lama**
 
-Updated at: 2026-01-07T01:09:49Z
+Updated at: 2026-01-08T01:09:29Z
