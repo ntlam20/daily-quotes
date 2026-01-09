@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *The way to change others' minds is with affection, and not anger.*
+💬 *It is not fair to ask of others what you are not willing to do yourself.*
 
-— **Dalai Lama**
+— **Eleanor Roosevelt**
 
-Updated at: 2026-01-08T01:09:29Z
+Updated at: 2026-01-09T01:10:16Z
