@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Become the kind of leader that people would follow voluntarily, even if you had no title or position.*
+💬 *When you love someone, you love the person as they are, and not as you'd like them to be.*
 
-— **Brian Tracy**
+— **Leo Tolstoy**
 
-Updated at: 2026-01-11T01:16:16Z
+Updated at: 2026-01-12T01:13:01Z
