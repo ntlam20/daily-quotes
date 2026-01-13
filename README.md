@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *When you love someone, you love the person as they are, and not as you'd like them to be.*
+💬 *Never close your lips to those whom you have already opened your heart.*
 
-— **Leo Tolstoy**
+— **Charles Dickens**
 
-Updated at: 2026-01-12T01:13:01Z
+Updated at: 2026-01-13T01:06:38Z
