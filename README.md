@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Never close your lips to those whom you have already opened your heart.*
+💬 *Do not believe that you will reach your destination without leaving the shore. *
 
-— **Charles Dickens**
+— **Chinese Proverb**
 
-Updated at: 2026-01-13T01:06:38Z
+Updated at: 2026-01-14T01:12:19Z
