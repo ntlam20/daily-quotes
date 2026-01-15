@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Do not believe that you will reach your destination without leaving the shore. *
+💬 *We are what we repeatedly do. Excellence, then, is not an act, but a habit.*
 
-— **Chinese Proverb**
+— **Aristotle**
 
-Updated at: 2026-01-14T01:12:19Z
+Updated at: 2026-01-15T01:08:24Z
