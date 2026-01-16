@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *We are what we repeatedly do. Excellence, then, is not an act, but a habit.*
+💬 *Your past does not equal your future.*
 
-— **Aristotle**
+— **Tony Robbins**
 
-Updated at: 2026-01-15T01:08:24Z
+Updated at: 2026-01-16T01:10:13Z
