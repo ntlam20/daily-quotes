@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Your past does not equal your future.*
+💬 *A wise person should have money in their head, but not in their heart.*
 
-— **Tony Robbins**
+— **Jonathan Swift**
 
-Updated at: 2026-01-16T01:10:13Z
+Updated at: 2026-01-17T01:07:11Z
