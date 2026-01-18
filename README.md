@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *A wise person should have money in their head, but not in their heart.*
+💬 *If you're not failing every now and again, it's a sign you're not doing anything very innovative.*
 
-— **Jonathan Swift**
+— **Woody Allen**
 
-Updated at: 2026-01-17T01:07:11Z
+Updated at: 2026-01-18T01:15:25Z
