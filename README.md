@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *In all human affairs there are efforts, and there are results, and the strength of the effort is the measure of the result.*
+💬 *Courage is the willingness to engage in a risk-taking behavior regardless of whether the consequences are unknown or possibly adverse.*
 
-— **James Allen**
+— **Alfred Adler**
 
-Updated at: 2026-01-19T01:14:14Z
+Updated at: 2026-01-20T01:09:12Z
