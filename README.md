@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Courage is the willingness to engage in a risk-taking behavior regardless of whether the consequences are unknown or possibly adverse.*
+💬 *Everything will be ok in the end. If it's not ok, it's not the end.*
 
-— **Alfred Adler**
+— **John Lennon**
 
-Updated at: 2026-01-20T01:09:12Z
+Updated at: 2026-01-21T01:11:29Z
