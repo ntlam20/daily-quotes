@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Everything will be ok in the end. If it's not ok, it's not the end.*
+💬 *Do not look for a sanctuary in anyone except your self.*
 
-— **John Lennon**
+— **Buddha**
 
-Updated at: 2026-01-21T01:11:29Z
+Updated at: 2026-01-22T01:11:35Z
