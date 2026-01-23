@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Do not look for a sanctuary in anyone except your self.*
+💬 *I want the fishing rod, not the fish.*
 
-— **Buddha**
+— **Yanni**
 
-Updated at: 2026-01-22T01:11:35Z
+Updated at: 2026-01-23T01:10:38Z
