@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *One of the advantages of being disorganized is that one is always having surprising discoveries.*
+💬 *Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted.*
 
-— **A.A. Milne**
+— **Robert Collier**
 
-Updated at: 2026-01-26T01:16:16Z
+Updated at: 2026-01-27T01:15:02Z
