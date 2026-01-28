@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted.*
+💬 *Time doesn't heal emotional pain, you need to learn how to let go.*
 
-— **Robert Collier**
+— **Roy T. Bennett**
 
-Updated at: 2026-01-27T01:15:02Z
+Updated at: 2026-01-28T01:11:00Z
