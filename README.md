@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Time doesn't heal emotional pain, you need to learn how to let go.*
+💬 *Anger begins with folly, and ends with repentance. *
 
-— **Roy T. Bennett**
+— **Beverly Sills**
 
-Updated at: 2026-01-28T01:11:00Z
+Updated at: 2026-01-29T01:20:54Z
