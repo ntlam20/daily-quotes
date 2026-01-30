@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Anger begins with folly, and ends with repentance. *
+💬 *If anything is worth doing, do it with all your heart.*
 
-— **Beverly Sills**
+— **Buddha**
 
-Updated at: 2026-01-29T01:20:54Z
+Updated at: 2026-01-30T01:20:17Z
