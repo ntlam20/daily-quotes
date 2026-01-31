@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *If anything is worth doing, do it with all your heart.*
+💬 *The more you are focused on time - past and future - the more you miss the Now, the most precious thing there is.*
 
-— **Buddha**
+— **Eckhart Tolle**
 
-Updated at: 2026-01-30T01:20:17Z
+Updated at: 2026-01-31T01:17:33Z
