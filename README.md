@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *The more you are focused on time - past and future - the more you miss the Now, the most precious thing there is.*
+💬 *Adventure is worthwhile in itself.*
 
-— **Eckhart Tolle**
+— **Amelia Earhart**
 
-Updated at: 2026-01-31T01:17:33Z
+Updated at: 2026-02-01T01:44:21Z
