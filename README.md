@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Adventure is worthwhile in itself.*
+💬 *The river that flows in you also flows in me.*
 
-— **Amelia Earhart**
+— **Kabir**
 
-Updated at: 2026-02-01T01:44:21Z
+Updated at: 2026-02-02T01:24:55Z
