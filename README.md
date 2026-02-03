@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *The river that flows in you also flows in me.*
+💬 *Lust, anger and greed are the three gates to self-destructive hell.*
 
-— **Kabir**
+— **Bhagavad Gita**
 
-Updated at: 2026-02-02T01:24:55Z
+Updated at: 2026-02-03T01:25:13Z
