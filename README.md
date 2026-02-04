@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Lust, anger and greed are the three gates to self-destructive hell.*
+💬 *Be a master of change rather than a victim of change.*
 
-— **Bhagavad Gita**
+— **Brian Tracy**
 
-Updated at: 2026-02-03T01:25:13Z
+Updated at: 2026-02-04T01:20:52Z
