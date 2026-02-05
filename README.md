@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Be a master of change rather than a victim of change.*
+💬 *I was angered, for I had no shoes. Then I met a man who had no feet. *
 
-— **Brian Tracy**
+— **Chinese Proverb**
 
-Updated at: 2026-02-04T01:20:52Z
+Updated at: 2026-02-05T01:20:13Z
