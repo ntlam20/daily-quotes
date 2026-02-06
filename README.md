@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *I was angered, for I had no shoes. Then I met a man who had no feet. *
+💬 *If what you're doing is not your passion, you have nothing to lose.*
 
-— **Chinese Proverb**
+— **Celestine Chua**
 
-Updated at: 2026-02-05T01:20:13Z
+Updated at: 2026-02-06T01:21:36Z
