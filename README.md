@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *If what you're doing is not your passion, you have nothing to lose.*
+💬 *Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections.*
 
-— **Celestine Chua**
+— **Bob Marley**
 
-Updated at: 2026-02-06T01:21:36Z
+Updated at: 2026-02-07T01:20:00Z
