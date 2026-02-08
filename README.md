@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections.*
+💬 *Nothing is easier than fault finding.*
 
-— **Bob Marley**
+— **Og Mandino**
 
-Updated at: 2026-02-07T01:20:00Z
+Updated at: 2026-02-08T01:56:40Z
