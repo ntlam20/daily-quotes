@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *It takes a minute to have a crush on someone, an hour to like someone, and a day to love someone... but it takes a lifetime to forget someone.*
+💬 *When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.  *
 
-— **Kahlil Gibran**
+— **Wayne Dyer**
 
-Updated at: 2026-02-09T01:26:51Z
+Updated at: 2026-02-10T01:49:34Z
