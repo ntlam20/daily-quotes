@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.  *
+💬 *If we are not able to smile, then the world will not have peace.*
 
-— **Wayne Dyer**
+— **Thich Nhat Hanh**
 
-Updated at: 2026-02-10T01:49:34Z
+Updated at: 2026-02-11T01:46:36Z
