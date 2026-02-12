@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *If we are not able to smile, then the world will not have peace.*
+💬 *Failure is simply the opportunity to begin again, this time more intelligently.*
 
-— **Thich Nhat Hanh**
+— **Henry Ford**
 
-Updated at: 2026-02-11T01:46:36Z
+Updated at: 2026-02-12T01:26:38Z
