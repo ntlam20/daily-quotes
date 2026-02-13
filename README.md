@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Failure is simply the opportunity to begin again, this time more intelligently.*
+💬 *We should not look back unless it is to derive useful lessons from past errors.*
 
-— **Henry Ford**
+— **George Washington**
 
-Updated at: 2026-02-12T01:26:38Z
+Updated at: 2026-02-13T01:29:15Z
