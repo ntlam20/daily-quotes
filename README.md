@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *We should not look back unless it is to derive useful lessons from past errors.*
+💬 *Real growth comes through intense, difficult, and challenging situations.*
 
-— **George Washington**
+— **Kamal Ravikant**
 
-Updated at: 2026-02-13T01:29:15Z
+Updated at: 2026-02-14T01:21:28Z
