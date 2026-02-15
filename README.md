@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Real growth comes through intense, difficult, and challenging situations.*
+💬 *Life is a journey, not a destination.*
 
-— **Kamal Ravikant**
+— **Dan Millman**
 
-Updated at: 2026-02-14T01:21:28Z
+Updated at: 2026-02-15T01:29:13Z
