@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Life is a journey, not a destination.*
+💬 *It is far easier to start something than it is to finish it.*
 
-— **Dan Millman**
+— **Amelia Earhart**
 
-Updated at: 2026-02-15T01:29:13Z
+Updated at: 2026-02-16T01:25:08Z
