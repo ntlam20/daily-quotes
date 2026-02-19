@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Love is the expression of one's values.*
+💬 *Don't spend major time on minor things.*
 
-— **Ayn Rand**
+— **Jim Rohn**
 
-Updated at: 2026-02-18T01:27:14Z
+Updated at: 2026-02-19T01:26:27Z
