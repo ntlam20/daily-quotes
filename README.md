@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *The secret of change is to focus all your energy not on fighting the old, but on building the new.*
+💬 *You may be disappointed if you fail, but you are doomed if you don't try. *
 
-— **Dan Millman**
+— **Beverly Sills**
 
-Updated at: 2026-02-21T01:19:42Z
+Updated at: 2026-02-22T01:25:55Z
