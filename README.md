@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *You may be disappointed if you fail, but you are doomed if you don't try. *
+💬 *If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else.*
 
-— **Beverly Sills**
+— **Simon Sinek**
 
-Updated at: 2026-02-22T01:25:55Z
+Updated at: 2026-02-23T01:24:46Z
