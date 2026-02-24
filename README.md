@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else.*
+💬 *It is useless to meet revenge with revenge; it will heal nothing.*
 
-— **Simon Sinek**
+— **J.R.R. Tolkien**
 
-Updated at: 2026-02-23T01:24:46Z
+Updated at: 2026-02-24T01:23:49Z
