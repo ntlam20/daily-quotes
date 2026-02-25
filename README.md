@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *It is useless to meet revenge with revenge; it will heal nothing.*
+💬 *The most important single ingredient in the formula of success is knowing how to get along with people.*
 
-— **J.R.R. Tolkien**
+— **Theodore Roosevelt**
 
-Updated at: 2026-02-24T01:23:49Z
+Updated at: 2026-02-25T01:26:35Z
