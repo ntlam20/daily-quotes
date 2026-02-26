@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *The most important single ingredient in the formula of success is knowing how to get along with people.*
+💬 *Enthusiasm makes up for a host of deficiencies.*
 
-— **Theodore Roosevelt**
+— **Barack Obama**
 
-Updated at: 2026-02-25T01:26:35Z
+Updated at: 2026-02-26T01:22:59Z
