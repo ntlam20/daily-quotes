@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Enthusiasm makes up for a host of deficiencies.*
+💬 *Play your part in life, but never forget that it is only a role.*
 
-— **Barack Obama**
+— **Paramahansa Yogananda**
 
-Updated at: 2026-02-26T01:22:59Z
+Updated at: 2026-02-27T01:20:14Z
