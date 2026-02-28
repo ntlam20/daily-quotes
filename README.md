@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Play your part in life, but never forget that it is only a role.*
+💬 *If anything is worth doing, do it with all your heart.*
 
-— **Paramahansa Yogananda**
+— **Buddha**
 
-Updated at: 2026-02-27T01:20:14Z
+Updated at: 2026-02-28T01:15:02Z
