@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *If anything is worth doing, do it with all your heart.*
+💬 *Persistence is very important. You should not give up unless you are forced to give up.*
 
-— **Buddha**
+— **Elon Musk**
 
-Updated at: 2026-02-28T01:15:02Z
+Updated at: 2026-03-01T01:43:03Z
