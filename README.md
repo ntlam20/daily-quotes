@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Our happiness depends on the habit of mind we cultivate.*
+💬 *Hope means hoping when everything seems hopeless.*
 
-— **Norman Vincent Peale**
+— **Gilbert Chesterton**
 
-Updated at: 2026-03-02T01:22:49Z
+Updated at: 2026-03-03T01:25:46Z
