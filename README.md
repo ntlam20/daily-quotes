@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Hope means hoping when everything seems hopeless.*
+💬 *The way to get started is to quit talking and begin doing.*
 
-— **Gilbert Chesterton**
+— **Walt Disney**
 
-Updated at: 2026-03-03T01:25:46Z
+Updated at: 2026-03-04T01:21:12Z
