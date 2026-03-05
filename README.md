@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *The way to get started is to quit talking and begin doing.*
+💬 *There is no right or wrong, only a series of possibilities that shift with each thought, feeling, and action that you experience.*
 
-— **Walt Disney**
+— **Deepak Chopra**
 
-Updated at: 2026-03-04T01:21:12Z
+Updated at: 2026-03-05T01:23:01Z
