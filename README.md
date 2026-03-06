@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *There is no right or wrong, only a series of possibilities that shift with each thought, feeling, and action that you experience.*
+💬 *You can suffer the pain of change or suffer remaining the way you are.*
 
-— **Deepak Chopra**
+— **Joyce Meyer**
 
-Updated at: 2026-03-05T01:23:01Z
+Updated at: 2026-03-06T01:25:47Z
