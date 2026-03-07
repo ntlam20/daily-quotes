@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *You can suffer the pain of change or suffer remaining the way you are.*
+💬 *When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy.*
 
-— **Joyce Meyer**
+— **Norman Vincent Peale**
 
-Updated at: 2026-03-06T01:25:47Z
+Updated at: 2026-03-07T01:18:12Z
