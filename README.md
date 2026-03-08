@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy.*
+💬 *Nothing we see or hear is perfect. But right there in the imperfection is perfect reality.*
 
-— **Norman Vincent Peale**
+— **Shunryu Suzuki**
 
-Updated at: 2026-03-07T01:18:12Z
+Updated at: 2026-03-08T01:24:18Z
