@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Nothing we see or hear is perfect. But right there in the imperfection is perfect reality.*
+💬 *Laziness may appear attractive, but work gives satisfaction.*
 
-— **Shunryu Suzuki**
+— **Anne Frank**
 
-Updated at: 2026-03-08T01:24:18Z
+Updated at: 2026-03-09T01:24:11Z
