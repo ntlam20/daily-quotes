@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *The only time you run out of chances is when you stop taking them.*
+💬 *The greatest weariness comes from work not done.*
 
-— **Unknown**
+— **Eric Hoffer**
 
-Updated at: 2026-03-10T01:18:55Z
+Updated at: 2026-03-11T01:18:54Z
