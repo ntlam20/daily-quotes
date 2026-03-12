@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *The greatest weariness comes from work not done.*
+💬 *Great things are not accomplished by those who yield to trends and fads and popular opinion.*
 
-— **Eric Hoffer**
+— **Jack Kerouac**
 
-Updated at: 2026-03-11T01:18:54Z
+Updated at: 2026-03-12T01:19:05Z
