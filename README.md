@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Great things are not accomplished by those who yield to trends and fads and popular opinion.*
+💬 *The dream is free, but the hustle is sold separately.*
 
-— **Jack Kerouac**
+— **Steve Harvey**
 
-Updated at: 2026-03-12T01:19:05Z
+Updated at: 2026-03-13T01:22:47Z
