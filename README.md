@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *The dream is free, but the hustle is sold separately.*
+💬 *Vision is the art of seeing things invisible.*
 
-— **Steve Harvey**
+— **Jonathan Swift**
 
-Updated at: 2026-03-13T01:22:47Z
+Updated at: 2026-03-14T01:21:05Z
