@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Vision is the art of seeing things invisible.*
+💬 *Learning never exhausts the mind. *
 
-— **Jonathan Swift**
+— **Leonardo da Vinci**
 
-Updated at: 2026-03-14T01:21:05Z
+Updated at: 2026-03-15T01:46:26Z
