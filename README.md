@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Always seek out the seed of triumph in every adversity.*
+💬 *The energy of the mind is the essence of life.*
 
-— **Og Mandino**
+— **Aristotle**
 
-Updated at: 2026-03-17T01:24:59Z
+Updated at: 2026-03-18T01:28:20Z
