@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Magic is believing in yourself, if you can do that, you can make anything happen.*
+💬 *A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday.*
 
-— **Johann Wolfgang von Goethe**
+— **Jonathan Swift**
 
-Updated at: 2026-03-19T01:28:24Z
+Updated at: 2026-03-20T01:23:29Z
