@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday.*
+💬 *It is not fair to ask of others what you are not willing to do yourself.*
 
-— **Jonathan Swift**
+— **Eleanor Roosevelt**
 
-Updated at: 2026-03-20T01:23:29Z
+Updated at: 2026-03-21T01:18:57Z
