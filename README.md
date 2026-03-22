@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *It is not fair to ask of others what you are not willing to do yourself.*
+💬 *Life is not a problem to be solved, but a reality to be experienced.*
 
-— **Eleanor Roosevelt**
+— **Soren Kierkegaard**
 
-Updated at: 2026-03-21T01:18:57Z
+Updated at: 2026-03-22T01:28:08Z
