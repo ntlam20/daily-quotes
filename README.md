@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Life is not just the passing of time. Life is the collection of experiences and their intensity.*
+💬 *A hero is an ordinary person doing things in an extra ordinary way.*
 
-— **Jim Rohn**
+— **Christopher Reeve**
 
-Updated at: 2026-03-23T01:27:57Z
+Updated at: 2026-03-24T01:22:39Z
