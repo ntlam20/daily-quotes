@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *A hero is an ordinary person doing things in an extra ordinary way.*
+💬 *Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday.*
 
-— **Christopher Reeve**
+— **Brian Tracy**
 
-Updated at: 2026-03-24T01:22:39Z
+Updated at: 2026-03-25T01:26:51Z
