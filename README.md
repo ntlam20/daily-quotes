@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday.*
+💬 *Life can only be understood backwards; but it must be lived forwards.*
 
-— **Brian Tracy**
+— **Soren Kierkegaard**
 
-Updated at: 2026-03-25T01:26:51Z
+Updated at: 2026-03-26T01:45:57Z
