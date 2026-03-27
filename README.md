@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Life can only be understood backwards; but it must be lived forwards.*
+💬 *Words have no power to impress the mind without the exquisite horror of their reality.*
 
-— **Soren Kierkegaard**
+— **Edgar Allan Poe**
 
-Updated at: 2026-03-26T01:45:57Z
+Updated at: 2026-03-27T01:45:48Z
