@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Leadership starts at the top.*
+💬 *Do not try to be on the side of the majority, but live according to your inner laws.*
 
-— **Morgan Wootten**
+— **Marcus Aurelius**
 
-Updated at: 2026-03-28T01:25:34Z
+Updated at: 2026-03-29T01:48:12Z
