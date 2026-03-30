@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Do not try to be on the side of the majority, but live according to your inner laws.*
+💬 *Success is stumbling from failure to failure with no loss of enthusiasm.*
 
-— **Marcus Aurelius**
+— **Winston Churchill**
 
-Updated at: 2026-03-29T01:48:12Z
+Updated at: 2026-03-30T01:50:33Z
