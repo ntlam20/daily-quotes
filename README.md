@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Success is stumbling from failure to failure with no loss of enthusiasm.*
+💬 *Many a man has failed because he had his wishbone where his backbone should have been.*
 
-— **Winston Churchill**
+— **Ronald Reagan**
 
-Updated at: 2026-03-30T01:50:33Z
+Updated at: 2026-03-31T01:46:54Z
