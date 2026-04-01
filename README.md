@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Many a man has failed because he had his wishbone where his backbone should have been.*
+💬 *Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind.*
 
-— **Ronald Reagan**
+— **Theodore Roosevelt**
 
-Updated at: 2026-03-31T01:46:54Z
+Updated at: 2026-04-01T01:54:55Z
