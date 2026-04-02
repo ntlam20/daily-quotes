@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind.*
+💬 *Your next step is simple. You are the first domino.*
 
-— **Theodore Roosevelt**
+— **Gary Keller**
 
-Updated at: 2026-04-01T01:54:55Z
+Updated at: 2026-04-02T01:44:03Z
