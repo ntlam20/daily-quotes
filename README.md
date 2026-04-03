@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Your next step is simple. You are the first domino.*
+💬 *Only he who has no use for the empire is fit to be entrusted with it.*
 
-— **Gary Keller**
+— **Zhuangzi**
 
-Updated at: 2026-04-02T01:44:03Z
+Updated at: 2026-04-03T01:45:39Z
