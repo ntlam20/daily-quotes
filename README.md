@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Only he who has no use for the empire is fit to be entrusted with it.*
+💬 *Anything worth doing is worth doing slowly.*
 
-— **Zhuangzi**
+— **Mae West**
 
-Updated at: 2026-04-03T01:45:39Z
+Updated at: 2026-04-04T01:27:02Z
