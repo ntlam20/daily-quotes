@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Anything worth doing is worth doing slowly.*
+💬 *To be able to forget means sanity.*
 
-— **Mae West**
+— **Jack London**
 
-Updated at: 2026-04-04T01:27:02Z
+Updated at: 2026-04-05T01:49:35Z
