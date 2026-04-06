@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *To be able to forget means sanity.*
+💬 *All great truths begin as blasphemies.*
 
-— **Jack London**
+— **George Bernard Shaw**
 
-Updated at: 2026-04-05T01:49:35Z
+Updated at: 2026-04-06T01:50:38Z
