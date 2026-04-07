@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *All great truths begin as blasphemies.*
+💬 *The best answer to anger is silence.*
 
-— **George Bernard Shaw**
+— **Marcus Aurelius**
 
-Updated at: 2026-04-06T01:50:38Z
+Updated at: 2026-04-07T01:48:05Z
