@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *The best answer to anger is silence.*
+💬 *I succeeded by saying what everyone else is thinking.*
 
-— **Marcus Aurelius**
+— **Joan Rivers**
 
-Updated at: 2026-04-07T01:48:05Z
+Updated at: 2026-04-08T01:48:28Z
