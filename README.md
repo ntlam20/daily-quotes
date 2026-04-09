@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *I succeeded by saying what everyone else is thinking.*
+💬 *A hero is an ordinary person doing things in an extra ordinary way.*
 
-— **Joan Rivers**
+— **Christopher Reeve**
 
-Updated at: 2026-04-08T01:48:28Z
+Updated at: 2026-04-09T01:27:53Z
