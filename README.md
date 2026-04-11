@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *One of the advantages of being disorganized is that one is always having surprising discoveries.*
+💬 *Success is going from failure to failure without losing your enthusiasm*
 
-— **A.A. Milne**
+— **Winston Churchill**
 
-Updated at: 2026-04-10T01:51:40Z
+Updated at: 2026-04-11T01:43:53Z
