@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Success is going from failure to failure without losing your enthusiasm*
+💬 *If I love myself I love you. If I love you I love myself.*
 
-— **Winston Churchill**
+— **Rumi**
 
-Updated at: 2026-04-11T01:43:53Z
+Updated at: 2026-04-12T01:54:18Z
