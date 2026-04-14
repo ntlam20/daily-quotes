@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *An investment in knowledge pays the best interest.*
+💬 *Fools read fast. Geniuses reread.*
 
-— **Benjamin Franklin**
+— **Maxime Lagace**
 
-Updated at: 2026-04-13T01:59:12Z
+Updated at: 2026-04-14T01:54:12Z
