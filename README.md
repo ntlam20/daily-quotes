@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Fools read fast. Geniuses reread.*
+💬 *Don't spend major time on minor things.*
 
-— **Maxime Lagace**
+— **Jim Rohn**
 
-Updated at: 2026-04-14T01:54:12Z
+Updated at: 2026-04-15T01:50:35Z
