@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *There is nothing in the world so irresistibly contagious as laughter and good humor.*
+💬 *If you believe you can, you can. If you believe you can't, then, well you can't.*
 
-— **Charles Dickens**
+— **Celestine Chua**
 
-Updated at: 2026-04-16T01:58:50Z
+Updated at: 2026-04-17T01:54:28Z
