@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *If you believe you can, you can. If you believe you can't, then, well you can't.*
+💬 *Happiness depends upon ourselves.*
 
-— **Celestine Chua**
+— **Aristotle**
 
-Updated at: 2026-04-17T01:54:28Z
+Updated at: 2026-04-18T01:46:12Z
