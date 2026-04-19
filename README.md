@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Happiness depends upon ourselves.*
+💬 *The ego wants to go fast. The soul needs to go slow.*
 
-— **Aristotle**
+— **Maxime Lagace**
 
-Updated at: 2026-04-18T01:46:12Z
+Updated at: 2026-04-19T01:58:51Z
