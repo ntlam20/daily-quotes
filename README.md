@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *The ego wants to go fast. The soul needs to go slow.*
+💬 *Some people find fault like there is a reward for it.  *
 
-— **Maxime Lagace**
+— **Zig Ziglar**
 
-Updated at: 2026-04-19T01:58:51Z
+Updated at: 2026-04-20T01:59:54Z
