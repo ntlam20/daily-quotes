@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Some people find fault like there is a reward for it.  *
+💬 *The present moment is filled with joy and happiness. If you are attentive, you will see it.*
 
-— **Zig Ziglar**
+— **Thich Nhat Hanh**
 
-Updated at: 2026-04-20T01:59:54Z
+Updated at: 2026-04-21T01:55:27Z
