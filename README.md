@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *The present moment is filled with joy and happiness. If you are attentive, you will see it.*
+💬 *Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage.*
 
-— **Thich Nhat Hanh**
+— **Celestine Chua**
 
-Updated at: 2026-04-21T01:55:27Z
+Updated at: 2026-04-22T01:54:19Z
