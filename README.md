@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage.*
+💬 *Success is good at any age, but the sooner you find it, the longer you will enjoy it.*
 
-— **Celestine Chua**
+— **Napoleon Hill**
 
-Updated at: 2026-04-22T01:54:19Z
+Updated at: 2026-04-23T01:58:36Z
