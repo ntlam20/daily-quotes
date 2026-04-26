@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Genius, in truth, means little more than the faculty of perceiving in an unhabitual way.*
+💬 *The cost of leadership is self-interest.*
 
-— **William James**
+— **Simon Sinek**
 
-Updated at: 2026-04-25T01:48:37Z
+Updated at: 2026-04-26T02:01:26Z
