@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *The cost of leadership is self-interest.*
+💬 *Success comes to those who become success conscious.*
 
-— **Simon Sinek**
+— **Napoleon Hill**
 
-Updated at: 2026-04-26T02:01:26Z
+Updated at: 2026-04-27T02:04:27Z
