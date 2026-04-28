@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Success comes to those who become success conscious.*
+💬 *Why do you stay in prison when the door is so wide open?*
 
-— **Napoleon Hill**
+— **Rumi**
 
-Updated at: 2026-04-27T02:04:27Z
+Updated at: 2026-04-28T02:10:49Z
