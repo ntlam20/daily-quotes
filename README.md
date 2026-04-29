@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Why do you stay in prison when the door is so wide open?*
+💬 *Creativity is the greatest rebellion in existence.*
 
-— **Rumi**
+— **Osho**
 
-Updated at: 2026-04-28T02:10:49Z
+Updated at: 2026-04-29T02:12:02Z
