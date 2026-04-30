@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Creativity is the greatest rebellion in existence.*
+💬 *The man who removes a mountain begins by carrying away small stones.*
 
-— **Osho**
+— **William Faulkner**
 
-Updated at: 2026-04-29T02:12:02Z
+Updated at: 2026-04-30T02:12:13Z
