@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *The man who removes a mountain begins by carrying away small stones.*
+💬 *The smallest act of kindness is worth more than the greatest intention.  *
 
-— **William Faulkner**
+— **Kahlil Gibran**
 
-Updated at: 2026-04-30T02:12:13Z
+Updated at: 2026-05-01T02:25:54Z
