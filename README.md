@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *The smallest act of kindness is worth more than the greatest intention.  *
+💬 *If it is not right, do not do it, if it is not true, do not say it.*
 
-— **Kahlil Gibran**
+— **Marcus Aurelius**
 
-Updated at: 2026-05-01T02:25:54Z
+Updated at: 2026-05-02T02:03:02Z
