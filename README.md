@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Live as if you were to die tomorrow. Learn as if you were to live forever.*
+💬 *No duty is more urgent than that of returning thanks.*
 
-— **Mahatma Gandhi**
+— **James Allen**
 
-Updated at: 2026-05-03T02:08:11Z
+Updated at: 2026-05-04T02:07:58Z
