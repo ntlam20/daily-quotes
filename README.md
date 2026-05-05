@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *No duty is more urgent than that of returning thanks.*
+💬 *If you want to achieve greatness stop asking for permission.*
 
-— **James Allen**
+— **Unknown**
 
-Updated at: 2026-05-04T02:07:58Z
+Updated at: 2026-05-05T02:06:40Z
