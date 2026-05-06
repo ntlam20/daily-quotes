@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *If you want to achieve greatness stop asking for permission.*
+💬 *To some degree, you control your life by controlling your time.*
 
-— **Unknown**
+— **Conrad Hilton**
 
-Updated at: 2026-05-05T02:06:40Z
+Updated at: 2026-05-06T02:06:52Z
