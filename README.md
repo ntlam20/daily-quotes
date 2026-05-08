@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Conscience is a dog that does not stop us from passing but that we cannot prevent from barking.*
+💬 *Don't let the fear of losing be greater than the excitement of winning.*
 
-— **Nicolas Chamfort**
+— **Robert Kiyosaki**
 
-Updated at: 2026-05-07T02:08:14Z
+Updated at: 2026-05-08T02:25:31Z
