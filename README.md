@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Don't let the fear of losing be greater than the excitement of winning.*
+💬 *We should not look back unless it is to derive useful lessons from past errors.*
 
-— **Robert Kiyosaki**
+— **George Washington**
 
-Updated at: 2026-05-08T02:25:31Z
+Updated at: 2026-05-09T02:09:45Z
