@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *We should not look back unless it is to derive useful lessons from past errors.*
+💬 *Believe in one thing too much and you have no room for new ideas.  *
 
-— **George Washington**
+— **Ray Bradbury**
 
-Updated at: 2026-05-09T02:09:45Z
+Updated at: 2026-05-10T02:11:29Z
