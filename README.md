@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Life and death are of supreme importance. Time swiftly passes by and opportunity is lost.*
+💬 *A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing.*
 
-— **Dogen**
+— **George Bernard Shaw**
 
-Updated at: 2026-05-12T02:23:54Z
+Updated at: 2026-05-13T02:29:57Z
