@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing.*
+💬 *Why live an ordinary life, when you can live an extraordinary one.*
 
-— **George Bernard Shaw**
+— **Tony Robbins**
 
-Updated at: 2026-05-13T02:29:57Z
+Updated at: 2026-05-14T02:31:22Z
