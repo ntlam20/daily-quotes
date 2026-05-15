@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Why live an ordinary life, when you can live an extraordinary one.*
+💬 *The purpose of life is the life of purpose.*
 
-— **Tony Robbins**
+— **Robin Sharma**
 
-Updated at: 2026-05-14T02:31:22Z
+Updated at: 2026-05-15T02:30:34Z
