@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *The purpose of life is the life of purpose.*
+💬 *Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it.*
 
-— **Robin Sharma**
+— **George Eliot**
 
-Updated at: 2026-05-15T02:30:34Z
+Updated at: 2026-05-16T02:12:37Z
