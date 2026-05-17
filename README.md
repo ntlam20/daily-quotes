@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it.*
+💬 *Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.*
 
-— **George Eliot**
+— **Margaret Mead**
 
-Updated at: 2026-05-16T02:12:37Z
+Updated at: 2026-05-17T02:28:05Z
