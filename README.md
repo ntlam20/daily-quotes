@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.*
+💬 *Do not bite at the bait of pleasure, till you know there is no hook beneath it.*
 
-— **Margaret Mead**
+— **Thomas Jefferson**
 
-Updated at: 2026-05-17T02:28:05Z
+Updated at: 2026-05-18T02:38:10Z
