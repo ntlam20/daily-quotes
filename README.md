@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Do not bite at the bait of pleasure, till you know there is no hook beneath it.*
+💬 *Don't Let Yesterday Take Up Too Much Of Today.*
 
-— **Thomas Jefferson**
+— **Will Rogers**
 
-Updated at: 2026-05-18T02:38:10Z
+Updated at: 2026-05-19T02:36:26Z
