@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Don't Let Yesterday Take Up Too Much Of Today.*
+💬 *The difference between winning and losing is most often not quitting.*
 
-— **Will Rogers**
+— **Walt Disney**
 
-Updated at: 2026-05-19T02:36:26Z
+Updated at: 2026-05-20T02:36:49Z
