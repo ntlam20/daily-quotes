@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *The difference between winning and losing is most often not quitting.*
+💬 *Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions.*
 
-— **Walt Disney**
+— **Criss Jami**
 
-Updated at: 2026-05-20T02:36:49Z
+Updated at: 2026-05-21T02:38:39Z
