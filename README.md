@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions.*
+💬 *The older you get the stronger the wind gets - and it's always in your face.*
 
-— **Criss Jami**
+— **Pablo Picasso**
 
-Updated at: 2026-05-21T02:38:39Z
+Updated at: 2026-05-22T02:40:08Z
