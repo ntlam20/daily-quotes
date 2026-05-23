@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *The older you get the stronger the wind gets - and it's always in your face.*
+💬 *He who hesitates is a damned fool.*
 
-— **Pablo Picasso**
+— **Mae West**
 
-Updated at: 2026-05-22T02:40:08Z
+Updated at: 2026-05-23T02:25:50Z
