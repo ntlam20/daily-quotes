@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *He who hesitates is a damned fool.*
+💬 *Being ignorant is not so much a shame, as being unwilling to learn.*
 
-— **Mae West**
+— **Benjamin Franklin**
 
-Updated at: 2026-05-23T02:25:50Z
+Updated at: 2026-05-24T02:35:12Z
