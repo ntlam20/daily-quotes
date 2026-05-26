@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Follow your instincts. That is where true wisdom manifests itself.*
+💬 *Your conscience is the measure of the honesty of your selfishness. Listen to it carefully.*
 
-— **Oprah Winfrey**
+— **Richard Bach**
 
-Updated at: 2026-05-25T02:43:40Z
+Updated at: 2026-05-26T02:33:02Z
