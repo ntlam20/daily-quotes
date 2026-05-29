@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *We need a backbone, not a wishbone.*
+💬 *Your business is not to 'get somewhere' - it is to be here.*
 
-— **Joyce Meyer**
+— **Dan Millman**
 
-Updated at: 2026-05-27T02:42:58Z
+Updated at: 2026-05-29T02:34:22Z
