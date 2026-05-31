@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored.*
+💬 *Life is the art of drawing sufficient conclusions from insufficient premises.*
 
-— **Earl Nightingale**
+— **Samuel Butler**
 
-Updated at: 2026-05-30T02:28:11Z
+Updated at: 2026-05-31T02:44:49Z
