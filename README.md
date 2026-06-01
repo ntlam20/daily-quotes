@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Life is the art of drawing sufficient conclusions from insufficient premises.*
+💬 *Continuous effort - not strength or intelligence - is the key to unlocking our potential.*
 
-— **Samuel Butler**
+— **Winston Churchill**
 
-Updated at: 2026-05-31T02:44:49Z
+Updated at: 2026-06-01T02:53:36Z
