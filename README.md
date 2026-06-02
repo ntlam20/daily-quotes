@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Continuous effort - not strength or intelligence - is the key to unlocking our potential.*
+💬 *The more we value things, the less we value ourselves.*
 
-— **Winston Churchill**
+— **Bruce Lee**
 
-Updated at: 2026-06-01T02:53:36Z
+Updated at: 2026-06-02T02:50:46Z
