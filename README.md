@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *The more we value things, the less we value ourselves.*
+💬 *Some people find fault like there is a reward for it.*
 
-— **Bruce Lee**
+— **Zig Ziglar**
 
-Updated at: 2026-06-02T02:50:46Z
+Updated at: 2026-06-03T02:59:22Z
