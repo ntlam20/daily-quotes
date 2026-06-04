@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Some people find fault like there is a reward for it.*
+💬 *The cost of leadership is self-interest.*
 
-— **Zig Ziglar**
+— **Simon Sinek**
 
-Updated at: 2026-06-03T02:59:22Z
+Updated at: 2026-06-04T02:55:07Z
