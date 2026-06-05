@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *The cost of leadership is self-interest.*
+💬 *The important thing is not to stop questioning. Curiosity has its own reason for existing.*
 
-— **Simon Sinek**
+— **Albert Einstein**
 
-Updated at: 2026-06-04T02:55:07Z
+Updated at: 2026-06-05T02:44:41Z
