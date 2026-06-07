@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *The important thing is not to stop questioning. Curiosity has its own reason for existing.*
+💬 *I do not seek. I find.*
 
-— **Albert Einstein**
+— **Pablo Picasso**
 
-Updated at: 2026-06-05T02:44:41Z
+Updated at: 2026-06-07T02:48:45Z
