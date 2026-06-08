@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *I do not seek. I find.*
+💬 *You're never too old for anything.*
 
-— **Pablo Picasso**
+— **Betty White**
 
-Updated at: 2026-06-07T02:48:45Z
+Updated at: 2026-06-08T02:51:43Z
