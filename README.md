@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *You're never too old for anything.*
+💬 *Avoiding danger is no safer in the long run than exposure.*
 
-— **Betty White**
+— **Helen Keller**
 
-Updated at: 2026-06-08T02:51:43Z
+Updated at: 2026-06-09T02:29:10Z
