@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Avoiding danger is no safer in the long run than exposure.*
+💬 *To be happy we need something to solve. Happiness is therefore a form of action.*
 
-— **Helen Keller**
+— **Mark Manson**
 
-Updated at: 2026-06-09T02:29:10Z
+Updated at: 2026-06-10T02:42:30Z
