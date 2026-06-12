@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Great acts are made up of small deeds.*
+💬 *It's your road, and yours alone, others may walk it with you, but no one can walk it for you.*
 
-— **Lao Tzu**
+— **Rumi**
 
-Updated at: 2026-06-11T02:52:00Z
+Updated at: 2026-06-12T02:49:01Z
