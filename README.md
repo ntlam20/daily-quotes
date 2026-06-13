@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *It's your road, and yours alone, others may walk it with you, but no one can walk it for you.*
+💬 *The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it.*
 
-— **Rumi**
+— **Carl Jung**
 
-Updated at: 2026-06-12T02:49:01Z
+Updated at: 2026-06-13T02:41:21Z
