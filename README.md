@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously.*
+💬 *Many a man has failed because he had his wishbone where his backbone should have been.*
 
-— **Steve Maraboli**
+— **Ronald Reagan**
 
-Updated at: 2026-06-14T02:52:50Z
+Updated at: 2026-06-15T02:57:42Z
