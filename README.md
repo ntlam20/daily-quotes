@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Many a man has failed because he had his wishbone where his backbone should have been.*
+💬 *Life doesn't get easier or more forgiving, we get stronger and more resilient.*
 
-— **Ronald Reagan**
+— **Steve Maraboli**
 
-Updated at: 2026-06-15T02:57:42Z
+Updated at: 2026-06-16T02:58:25Z
