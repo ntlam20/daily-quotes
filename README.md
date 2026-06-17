@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Life doesn't get easier or more forgiving, we get stronger and more resilient.*
+💬 *Most people fail in life not because they aim too high and miss, but because they aim too low and hit.*
 
-— **Steve Maraboli**
+— **Les Brown**
 
-Updated at: 2026-06-16T02:58:25Z
+Updated at: 2026-06-17T02:55:39Z
