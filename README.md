@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Most people fail in life not because they aim too high and miss, but because they aim too low and hit.*
+💬 *You cannot always control what goes on outside. But you can always control what goes on inside.*
 
-— **Les Brown**
+— **Wayne Dyer**
 
-Updated at: 2026-06-17T02:55:39Z
+Updated at: 2026-06-19T03:36:29Z
