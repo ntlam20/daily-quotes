@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *You cannot always control what goes on outside. But you can always control what goes on inside.*
+💬 *An investment in knowledge pays the best interest.*
 
-— **Wayne Dyer**
+— **Benjamin Franklin**
 
-Updated at: 2026-06-19T03:36:29Z
+Updated at: 2026-06-20T02:40:18Z
