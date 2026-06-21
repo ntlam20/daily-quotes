@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *An investment in knowledge pays the best interest.*
+💬 *I defeat my enemies when I make them my friends.*
 
-— **Benjamin Franklin**
+— **Dalai Lama**
 
-Updated at: 2026-06-20T02:40:18Z
+Updated at: 2026-06-21T02:56:28Z
