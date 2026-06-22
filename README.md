@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *I defeat my enemies when I make them my friends.*
+💬 *The best leaders are constantly learning, curious about where they made mistakes and actively looking for areas where they might have it wrong.*
 
-— **Dalai Lama**
+— **Jeff Booth**
 
-Updated at: 2026-06-21T02:56:28Z
+Updated at: 2026-06-22T02:59:09Z
