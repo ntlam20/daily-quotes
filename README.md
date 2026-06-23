@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *The best leaders are constantly learning, curious about where they made mistakes and actively looking for areas where they might have it wrong.*
+💬 *To find yourself, think for yourself.*
 
-— **Jeff Booth**
+— **Socrates**
 
-Updated at: 2026-06-22T02:59:09Z
+Updated at: 2026-06-23T02:34:16Z
