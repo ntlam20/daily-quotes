@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *To find yourself, think for yourself.*
+💬 *You are your best thing.*
 
-— **Socrates**
+— **Toni Morrison**
 
-Updated at: 2026-06-23T02:34:16Z
+Updated at: 2026-06-24T02:34:56Z
