@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *You are your best thing.*
+💬 *A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday.*
 
-— **Toni Morrison**
+— **Jonathan Swift**
 
-Updated at: 2026-06-24T02:34:56Z
+Updated at: 2026-06-25T02:36:20Z
