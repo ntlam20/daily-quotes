@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday.*
+💬 *A day wasted on others is not wasted on one's self.*
 
-— **Jonathan Swift**
+— **Charles Dickens**
 
-Updated at: 2026-06-25T02:36:20Z
+Updated at: 2026-06-26T02:39:18Z
