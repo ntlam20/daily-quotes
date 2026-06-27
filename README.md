@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *A day wasted on others is not wasted on one's self.*
+💬 *The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich.*
 
-— **Charles Dickens**
+— **Carlos Ruiz Zafon**
 
-Updated at: 2026-06-26T02:39:18Z
+Updated at: 2026-06-27T02:31:48Z
