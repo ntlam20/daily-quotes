@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Respect was invented to cover the empty place where love should be.*
+💬 *There are no mistakes in life, only lessons.*
 
-— **Leo Tolstoy**
+— **Robin Sharma**
 
-Updated at: 2026-06-28T02:44:44Z
+Updated at: 2026-06-29T02:45:15Z
