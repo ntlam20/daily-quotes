@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *There are no mistakes in life, only lessons.*
+💬 *To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace.*
 
-— **Robin Sharma**
+— **Morihei Ueshiba**
 
-Updated at: 2026-06-29T02:45:15Z
+Updated at: 2026-06-30T02:41:39Z
