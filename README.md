@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace.*
+💬 *Focus is a matter of deciding what things you're not going to do.*
 
-— **Morihei Ueshiba**
+— **John Carmack**
 
-Updated at: 2026-06-30T02:41:39Z
+Updated at: 2026-07-01T02:45:47Z
