@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Focus is a matter of deciding what things you're not going to do.*
+💬 *There are no mistakes in life, only lessons.*
 
-— **John Carmack**
+— **Robin Sharma**
 
-Updated at: 2026-07-01T02:45:47Z
+Updated at: 2026-07-02T02:35:28Z
