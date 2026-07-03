@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *There are no mistakes in life, only lessons.*
+💬 *Genius is one percent inspiration and ninety-nine percent perspiration.*
 
-— **Robin Sharma**
+— **Thomas Edison**
 
-Updated at: 2026-07-02T02:35:28Z
+Updated at: 2026-07-03T02:10:40Z
