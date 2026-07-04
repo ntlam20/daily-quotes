@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Genius is one percent inspiration and ninety-nine percent perspiration.*
+💬 *If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems.*
 
-— **Thomas Edison**
+— **Robert Kiyosaki**
 
-Updated at: 2026-07-03T02:10:40Z
+Updated at: 2026-07-04T02:08:54Z
