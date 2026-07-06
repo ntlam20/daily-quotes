@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *There is no absolute success in the world, only constant progress.*
+💬 *Courage is found in unlikely places.*
 
-— **Jonathan Swift**
+— **J.R.R. Tolkien**
 
-Updated at: 2026-07-05T02:24:19Z
+Updated at: 2026-07-06T02:29:24Z
