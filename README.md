@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Courage is found in unlikely places.*
+💬 *You cannot swim for new horizons until you have courage to lose sight of the shore.*
 
-— **J.R.R. Tolkien**
+— **William Faulkner**
 
-Updated at: 2026-07-06T02:29:24Z
+Updated at: 2026-07-07T02:24:58Z
