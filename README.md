@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *You cannot swim for new horizons until you have courage to lose sight of the shore.*
+💬 *Wake up and smile! Wake up and be grateful!*
 
-— **William Faulkner**
+— **Steve Harvey**
 
-Updated at: 2026-07-07T02:24:58Z
+Updated at: 2026-07-08T01:58:17Z
