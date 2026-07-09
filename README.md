@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Wake up and smile! Wake up and be grateful!*
+💬 *The future belongs to those who believe in the beauty of their dreams.*
 
-— **Steve Harvey**
+— **Eleanor Roosevelt**
 
-Updated at: 2026-07-08T01:58:17Z
+Updated at: 2026-07-09T02:10:54Z
