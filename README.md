@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *The future belongs to those who believe in the beauty of their dreams.*
+💬 *The greatest step towards a life of simplicity is to learn to let go.*
 
-— **Eleanor Roosevelt**
+— **Steve Maraboli**
 
-Updated at: 2026-07-09T02:10:54Z
+Updated at: 2026-07-10T02:10:44Z
