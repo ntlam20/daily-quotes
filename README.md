@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *The greatest step towards a life of simplicity is to learn to let go.*
+💬 *Either you choose to stay in the shallow end of the pool or you go out into the ocean.*
 
-— **Steve Maraboli**
+— **Christopher Reeve**
 
-Updated at: 2026-07-10T02:10:44Z
+Updated at: 2026-07-11T01:56:28Z
