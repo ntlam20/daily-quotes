@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Either you choose to stay in the shallow end of the pool or you go out into the ocean.*
+💬 *Acknowledging the good that you already have in your life is the foundation for all abundance.*
 
-— **Christopher Reeve**
+— **Eckhart Tolle**
 
-Updated at: 2026-07-11T01:56:28Z
+Updated at: 2026-07-12T02:00:10Z
