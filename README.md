@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *I defeat my enemies when I make them my friends.*
+💬 *Abundance of knowledge does not teach men to be wise.*
 
-— **Dalai Lama**
+— **Heraclitus**
 
-Updated at: 2026-07-14T01:48:07Z
+Updated at: 2026-07-15T01:44:29Z
