@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Abundance of knowledge does not teach men to be wise.*
+💬 *Would you rather learn to deal with the truth now than be forced to do so later on?*
 
-— **Heraclitus**
+— **Celestine Chua**
 
-Updated at: 2026-07-15T01:44:29Z
+Updated at: 2026-07-16T01:54:29Z
