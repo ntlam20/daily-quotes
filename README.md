@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Would you rather learn to deal with the truth now than be forced to do so later on?*
+💬 *What we desire makes us vulnerable.*
 
-— **Celestine Chua**
+— **Ryan Holiday**
 
-Updated at: 2026-07-16T01:54:29Z
+Updated at: 2026-07-17T01:58:41Z
