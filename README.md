@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *What we desire makes us vulnerable.*
+💬 *Absence makes the heart grow fonder.*
 
-— **Ryan Holiday**
+— **Eleanor Roosevelt**
 
-Updated at: 2026-07-17T01:58:41Z
+Updated at: 2026-07-18T01:48:08Z
