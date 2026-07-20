@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Help others achieve their dreams and you will achieve yours.*
+💬 *To lose your temper is only useful once a year.*
 
-— **Les Brown**
+— **Colin R. Davis**
 
-Updated at: 2026-07-19T01:57:28Z
+Updated at: 2026-07-20T03:27:48Z
