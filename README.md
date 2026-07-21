@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *To lose your temper is only useful once a year.*
+💬 *You must live in the present, launch yourself on every wave, find your eternity in each moment. Fools stand on their island of opportunities and look toward another land. There is no other land; there is no other life but this.*
 
-— **Colin R. Davis**
+— **Henry David Thoreau**
 
-Updated at: 2026-07-20T03:27:48Z
+Updated at: 2026-07-21T01:56:58Z
