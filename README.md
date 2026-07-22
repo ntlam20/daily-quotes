@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *You must live in the present, launch yourself on every wave, find your eternity in each moment. Fools stand on their island of opportunities and look toward another land. There is no other land; there is no other life but this.*
+💬 *There is an essence of when you are fearless, you become more creative.*
 
-— **Henry David Thoreau**
+— **Gurbaksh Chahal**
 
-Updated at: 2026-07-21T01:56:58Z
+Updated at: 2026-07-22T01:55:23Z
