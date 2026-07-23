@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *There is an essence of when you are fearless, you become more creative.*
+💬 *Treat everyone with politeness and kindness, not because they are nice, but because you are.*
 
-— **Gurbaksh Chahal**
+— **Roy T. Bennett**
 
-Updated at: 2026-07-22T01:55:23Z
+Updated at: 2026-07-23T02:03:32Z
