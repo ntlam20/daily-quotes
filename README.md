@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Treat everyone with politeness and kindness, not because they are nice, but because you are.*
+💬 *Every day passes whether you participate or not.*
 
-— **Roy T. Bennett**
+— **Ming-Dao Deng**
 
-Updated at: 2026-07-23T02:03:32Z
+Updated at: 2026-07-24T01:58:32Z
