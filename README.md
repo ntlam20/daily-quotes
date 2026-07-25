@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Every day passes whether you participate or not.*
+💬 *There are two kinds of perfect people: those who are dead, and those who have not been born yet.*
 
-— **Ming-Dao Deng**
+— **Chinese Proverb**
 
-Updated at: 2026-07-24T01:58:32Z
+Updated at: 2026-07-25T01:58:12Z
