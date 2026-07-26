@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *There are two kinds of perfect people: those who are dead, and those who have not been born yet.*
+💬 *No man is happy who does not think himself so.*
 
-— **Chinese Proverb**
+— **Norman Vincent Peale**
 
-Updated at: 2026-07-25T01:58:12Z
+Updated at: 2026-07-26T02:02:34Z
