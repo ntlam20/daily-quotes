@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *No man is happy who does not think himself so.*
+💬 *Don't spend major time on minor things.*
 
-— **Norman Vincent Peale**
+— **Jim Rohn**
 
-Updated at: 2026-07-26T02:02:34Z
+Updated at: 2026-07-27T02:09:58Z
