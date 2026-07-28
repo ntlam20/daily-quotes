@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Don't spend major time on minor things.*
+💬 *Quality means doing it right when no one is looking.*
 
-— **Jim Rohn**
+— **Henry Ford**
 
-Updated at: 2026-07-27T02:09:58Z
+Updated at: 2026-07-28T01:51:17Z
