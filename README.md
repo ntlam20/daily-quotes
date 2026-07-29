@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Quality means doing it right when no one is looking.*
+💬 *Love is merely the name for the desire and pursuit of the whole.*
 
-— **Henry Ford**
+— **Aristophanes**
 
-Updated at: 2026-07-28T01:51:17Z
+Updated at: 2026-07-29T01:53:44Z
