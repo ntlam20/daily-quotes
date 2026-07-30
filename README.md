@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Love is merely the name for the desire and pursuit of the whole.*
+💬 *If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else.*
 
-— **Aristophanes**
+— **Simon Sinek**
 
-Updated at: 2026-07-29T01:53:44Z
+Updated at: 2026-07-30T01:46:06Z
