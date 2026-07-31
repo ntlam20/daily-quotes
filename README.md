@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else.*
+💬 *Work as though you would live forever, and live as though you would die today. Go another mile.*
 
-— **Simon Sinek**
+— **Og Mandino**
 
-Updated at: 2026-07-30T01:46:06Z
+Updated at: 2026-07-31T02:03:35Z
