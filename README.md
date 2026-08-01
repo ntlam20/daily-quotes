@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Work as though you would live forever, and live as though you would die today. Go another mile.*
+💬 *Enjoy every minute of life. Never second-guess life.*
 
-— **Og Mandino**
+— **Michael Jordan**
 
-Updated at: 2026-07-31T02:03:35Z
+Updated at: 2026-08-01T02:04:58Z
