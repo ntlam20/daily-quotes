@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *A rational person can find peace by cultivating indifference to things outside of their control.*
+💬 *Only in the agony of parting do we look into the depths of love.*
 
-— **Naval Ravikant**
+— **George Eliot**
 
-Updated at: 2026-08-02T02:01:31Z
+Updated at: 2026-08-03T02:03:57Z
