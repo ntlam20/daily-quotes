@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Only in the agony of parting do we look into the depths of love.*
+💬 *The more you give, the more comes back to you.*
 
-— **George Eliot**
+— **Napoleon Hill**
 
-Updated at: 2026-08-03T02:03:57Z
+Updated at: 2026-08-04T01:49:22Z
