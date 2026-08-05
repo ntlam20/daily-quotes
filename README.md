@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *The more you give, the more comes back to you.*
+💬 *Sometimes adversity is what you need to face in order to become successful.*
 
-— **Napoleon Hill**
+— **Zig Ziglar**
 
-Updated at: 2026-08-04T01:49:22Z
+Updated at: 2026-08-05T01:50:31Z
