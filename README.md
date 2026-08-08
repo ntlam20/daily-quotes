@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe.*
+💬 *You don't need a weatherman to know which way the wind blows.*
 
-— **Nikola Tesla**
+— **Bob Dylan**
 
-Updated at: 2026-08-07T02:14:01Z
+Updated at: 2026-08-08T01:02:31Z
