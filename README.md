@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *You don't need a weatherman to know which way the wind blows.*
+💬 *Perpetual optimism is a force multiplier.*
 
-— **Bob Dylan**
+— **Colin Powell**
 
-Updated at: 2026-08-08T01:02:31Z
+Updated at: 2026-08-09T01:06:18Z
