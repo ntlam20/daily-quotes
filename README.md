@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Perpetual optimism is a force multiplier.*
+💬 *If your mind is empty, it is always ready for anything, it is open to everything.*
 
-— **Colin Powell**
+— **Shunryu Suzuki**
 
-Updated at: 2026-08-09T01:06:18Z
+Updated at: 2026-08-10T01:07:52Z
