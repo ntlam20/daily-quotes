@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *If your mind is empty, it is always ready for anything, it is open to everything.*
+💬 *Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom.*
 
-— **Shunryu Suzuki**
+— **Sonia Ricotti**
 
-Updated at: 2026-08-10T01:07:52Z
+Updated at: 2026-08-11T01:07:13Z
