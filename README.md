@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Manifest plainness, embrace simplicity, reduce selfishness, have few desires.*
+💬 *You don't need to be better than anyone else, you just need to be better than you used to be.*
 
-— **Lao Tzu**
+— **Wayne Dyer**
 
-Updated at: 2026-08-12T01:14:45Z
+Updated at: 2026-08-13T01:16:31Z
