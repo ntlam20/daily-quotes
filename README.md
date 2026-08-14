@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *You don't need to be better than anyone else, you just need to be better than you used to be.*
+💬 *If you do what you've always done, you'll get what you've always gotten.*
 
-— **Wayne Dyer**
+— **Tony Robbins**
 
-Updated at: 2026-08-13T01:16:31Z
+Updated at: 2026-08-14T01:15:15Z
