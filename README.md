@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *If you do what you've always done, you'll get what you've always gotten.*
+💬 *One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.*
 
-— **Tony Robbins**
+— **Elbert Hubbard**
 
-Updated at: 2026-08-14T01:15:15Z
+Updated at: 2026-08-15T00:47:52Z
