@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.*
+💬 *Most people dabble their way through life, never deciding to master anything in particular.*
 
-— **Elbert Hubbard**
+— **Tony Robbins**
 
-Updated at: 2026-08-15T00:47:52Z
+Updated at: 2026-08-16T00:50:55Z
