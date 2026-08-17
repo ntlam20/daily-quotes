@@ -62,8 +62,8 @@ func generateQuoteSVG(q Quote, date string) (string, error) {
 		cx       = width / 2
 		lineH    = 32
 		maxChars = 52
-		padTop   = 20
-		padBot   = 5
+		padTop   = 32
+		padBot   = 20
 	)
 
 	lines := wrapText(q.Q, maxChars)
