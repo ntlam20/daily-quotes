@@ -102,7 +102,7 @@ func generateQuoteSVG(q Quote, date string) (string, error) {
 	sb.WriteString(fmt.Sprintf("\n  <image class=\"brush\" filter=\"url(#colorize)\" href=\"data:image/png;base64,%s\" x=\"0\" y=\"0\" width=\"%d\" height=\"%d\"/>", pngB64, width, height))
 
 	// Opening quote mark
-	sb.WriteString(fmt.Sprintf("\n  <text class=\"mark\" x=\"%d\" y=\"%d\">&#10077;</text>", cx, yMark))
+	sb.WriteString(fmt.Sprintf("\n  <text class=\"mark\" style=\"font-size:52px\" x=\"%d\" y=\"%d\">&#10077;</text>", cx, yMark))
 
 	// Quote lines
 	for i, line := range lines {
