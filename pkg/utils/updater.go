@@ -20,7 +20,7 @@ func UpdateREADME(q Quote) error {
 	}
 
 	quoteText := fmt.Sprintf("💬 *%s*\n\n— **%s**", q.Q, q.A)
-	currentTime := time.Now().UTC().Format(time.RFC3339)
+	currentTime := time.Now().UTC().Format("January 2, 2006")
 
 	finalContent := strings.ReplaceAll(string(templateContent), "{{QUOTE}}", quoteText)
 	finalContent = strings.ReplaceAll(finalContent, "{{DATE}}", currentTime)
