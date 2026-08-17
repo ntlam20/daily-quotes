@@ -1,7 +1,7 @@
 # Today's Quote
 
-💬 *Nothing in this universe occurs by accident.*
+💬 *Duty makes us do things well, but love makes us do them beautifully.*
 
-— **Neale Donald Walsch**
+— **Zig Ziglar**
 
-Updated at: 2026-08-17T00:48:10Z
+Updated at: August 17, 2026
