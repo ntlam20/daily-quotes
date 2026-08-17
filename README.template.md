@@ -1,6 +1,5 @@
 <div align="center">
 
-![Today's Quote](assets/header.svg)
-![](assets/quote.svg)
+![Today's Quote](assets/daily-quote.svg)
 
 </div>
