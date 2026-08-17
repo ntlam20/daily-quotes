@@ -58,7 +58,7 @@ func generateQuoteSVG(q Quote, date string) (string, error) {
 
 	const (
 		width    = 900
-		height   = 260
+		height   = 220
 		cx       = width / 2
 		lineH    = 32
 		maxChars = 52
