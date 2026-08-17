@@ -1,7 +1,21 @@
-# Today's Quote
+<div align="center">
 
-💬 *Duty makes us do things well, but love makes us do them beautifully.*
+<br>
 
-— **Zig Ziglar**
+# ✦ Daily Quote
 
-Updated at: August 17, 2026
+<br>
+
+</div>
+
+> *"Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that."*
+>
+> — **Martin Luther King, Jr.**
+
+<br>
+
+<div align="center">
+
+<sub>— August 17, 2026</sub>
+
+</div>
