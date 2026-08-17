@@ -85,12 +85,12 @@ func generateQuoteSVG(q Quote, date string) (string, error) {
       font-family: 'Sniglet';
       src: url('data:font/truetype;base64,%s') format('truetype');
     }
-    .bg   { fill: #0f0f0f; }
-    .qt   { fill: #f0ece4; font-family: 'Sniglet', sans-serif; font-size: 26px; font-style: italic; text-anchor: middle; }
-    .mark { fill: #8a7f72; font-family: 'Sniglet', sans-serif; font-size: 52px; text-anchor: middle; }
-    .au   { fill: #b0a898; font-family: 'Sniglet', sans-serif; font-size: 20px; text-anchor: middle; }
-    .dt   { fill: #6e6860; font-family: 'Sniglet', sans-serif; font-size: 15px; text-anchor: middle; }
-    .brush { opacity: 0.18; }
+    .bg   { fill: #ffffff; }
+    .qt   { fill: #1a1a1a; font-family: 'Sniglet', sans-serif; font-size: 26px; font-style: italic; text-anchor: middle; }
+    .mark { fill: #c8c0b8; font-family: 'Sniglet', sans-serif; font-size: 52px; text-anchor: middle; }
+    .au   { fill: #555555; font-family: 'Sniglet', sans-serif; font-size: 20px; text-anchor: middle; }
+    .dt   { fill: #999999; font-family: 'Sniglet', sans-serif; font-size: 15px; text-anchor: middle; }
+    .brush { opacity: 0.12; }
   </style></defs>`, fontB64))
 
 	// Background
