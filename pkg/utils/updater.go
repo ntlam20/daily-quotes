@@ -58,24 +58,21 @@ func generateQuoteSVG(q Quote, date string) (string, error) {
 
 	const (
 		width    = 900
-		height   = 453
 		cx       = width / 2
 		lineH    = 40
 		maxChars = 46
+		padTop   = 48
+		padBot   = 20
 	)
 
 	lines := wrapText(q.Q, maxChars)
 
-	// Center text block vertically
-	// Block = quote mark(52px) + gap(8) + lines + gap(20) + author(28) + gap(14) + date(22)
-	blockH := 52 + 8 + len(lines)*lineH + 20 + 28 + 14 + 22
-	startY := (height-blockH)/2 + 52
-
-	yMark := startY
+	yMark := padTop + 36
 	yFirstLine := yMark + 8 + lineH
 	yLastLine := yFirstLine + (len(lines)-1)*lineH
 	yAuthor := yLastLine + 20 + 28
 	yDate := yAuthor + 14 + 22
+	height := yDate + padBot
 
 	var sb strings.Builder
 	sb.WriteString(fmt.Sprintf(`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 %d %d" width="%d" height="%d">`, width, height, width, height))

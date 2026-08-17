@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 100" width="900" height="100">
-  <!-- v2 -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 88" width="900" height="88">
+  <!-- v3 -->
   <defs>
     <style>
       @font-face {
@@ -11,8 +11,8 @@
       .line { stroke: #e0e0e0; stroke-width: 1; }
     </style>
   </defs>
-  <rect class="bg" width="900" height="100"/>
-  <line class="line" x1="40" y1="20" x2="860" y2="20"/>
-  <text class="text" x="450" y="56">&#10077; Today&#8217;s Quote</text>
-  <line class="line" x1="40" y1="80" x2="860" y2="80"/>
+  <rect class="bg" width="900" height="88"/>
+  <line class="line" x1="40" y1="16" x2="860" y2="16"/>
+  <text class="text" x="450" y="50">&#10077; Today&#8217;s Quote</text>
+  <line class="line" x1="40" y1="76" x2="860" y2="76"/>
 </svg>
