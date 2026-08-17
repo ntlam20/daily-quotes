@@ -62,7 +62,7 @@ func generateQuoteSVG(q Quote, date string) (string, error) {
 		cx       = width / 2
 		lineH    = 32
 		maxChars = 52
-		padTop   = 32
+		padTop   = 36
 		padBot   = 20
 	)
 
