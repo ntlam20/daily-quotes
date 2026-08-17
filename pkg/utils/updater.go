@@ -19,7 +19,7 @@ func UpdateREADME(q Quote) error {
 		return fmt.Errorf("failed to read template: %w", err)
 	}
 
-	quoteText := fmt.Sprintf("💬 *%s*\n\n— **%s**", q.Q, q.A)
+	quoteText := fmt.Sprintf("> *\"%s\"*\n>\n> — **%s**", q.Q, q.A)
 	currentTime := time.Now().UTC().Format("January 2, 2006")
 
 	finalContent := strings.ReplaceAll(string(templateContent), "{{QUOTE}}", quoteText)
