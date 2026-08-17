@@ -124,6 +124,35 @@ func generateSVG(q Quote, date string) (string, error) {
 	return sb.String(), nil
 }
 
+func generateHiThereSVG() string {
+	fontB64 := base64.StdEncoding.EncodeToString(snigletFont)
+	const (
+		width  = 900
+		height = 72
+		cx     = width / 2
+	)
+	var sb strings.Builder
+	sb.WriteString(fmt.Sprintf(`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 %d %d" width="%d" height="%d">`, width, height, width, height))
+	sb.WriteString(fmt.Sprintf(`
+  <defs>
+    <style>
+      @font-face {
+        font-family: 'Sniglet';
+        src: url('data:font/truetype;base64,%s') format('truetype');
+      }
+      .bg   { fill: #ffffff; }
+      .text { fill: #1a1a1a; font-family: 'Sniglet', sans-serif; font-size: 26px; text-anchor: middle; dominant-baseline: middle; }
+      .line { stroke: #e0e0e0; stroke-width: 1; }
+    </style>
+  </defs>`, fontB64))
+	sb.WriteString(fmt.Sprintf("\n  <rect class=\"bg\" width=\"%d\" height=\"%d\"/>", width, height))
+	sb.WriteString("\n  <line class=\"line\" x1=\"40\" y1=\"14\" x2=\"860\" y2=\"14\"/>")
+	sb.WriteString(fmt.Sprintf("\n  <text class=\"text\" x=\"%d\" y=\"%d\">Hi there &#128075;</text>", cx, height/2))
+	sb.WriteString("\n  <line class=\"line\" x1=\"40\" y1=\"62\" x2=\"860\" y2=\"62\"/>")
+	sb.WriteString("\n</svg>")
+	return sb.String()
+}
+
 func UpdateREADME(q Quote) error {
 	templateContent, err := os.ReadFile("README.template.md")
 	if err != nil {
@@ -138,6 +167,11 @@ func UpdateREADME(q Quote) error {
 	}
 	if err := os.WriteFile("assets/daily-quote.svg", []byte(svg), 0644); err != nil {
 		return fmt.Errorf("failed to write assets/daily-quote.svg: %w", err)
+	}
+
+	hiThere := generateHiThereSVG()
+	if err := os.WriteFile("assets/hi-there.svg", []byte(hiThere), 0644); err != nil {
+		return fmt.Errorf("failed to write assets/hi-there.svg: %w", err)
 	}
 
 	if err := os.WriteFile("README.md", templateContent, 0644); err != nil {
