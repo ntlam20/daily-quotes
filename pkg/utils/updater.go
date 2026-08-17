@@ -58,21 +58,21 @@ func generateQuoteSVG(q Quote, date string) (string, error) {
 
 	const (
 		width    = 900
+		height   = 260
 		cx       = width / 2
-		lineH    = 40
-		maxChars = 46
-		padTop   = 48
+		lineH    = 32
+		maxChars = 52
+		padTop   = 36
 		padBot   = 20
 	)
 
 	lines := wrapText(q.Q, maxChars)
 
-	yMark := padTop + 36
-	yFirstLine := yMark + 8 + lineH
+	yMark := padTop + 26
+	yFirstLine := yMark + 6 + lineH
 	yLastLine := yFirstLine + (len(lines)-1)*lineH
-	yAuthor := yLastLine + 20 + 28
-	yDate := yAuthor + 14 + 22
-	height := yDate + padBot
+	yAuthor := yLastLine + 16 + 24
+	yDate := yAuthor + 12 + 18
 
 	var sb strings.Builder
 	sb.WriteString(fmt.Sprintf(`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 %d %d" width="%d" height="%d">`, width, height, width, height))
@@ -83,18 +83,23 @@ func generateQuoteSVG(q Quote, date string) (string, error) {
       src: url('data:font/truetype;base64,%s') format('truetype');
     }
     .bg   { fill: #ffffff; }
-    .qt   { fill: #1a1a1a; font-family: 'Sniglet', sans-serif; font-size: 26px; font-style: italic; text-anchor: middle; }
-    .mark { fill: #c8c0b8; font-family: 'Sniglet', sans-serif; font-size: 52px; text-anchor: middle; }
-    .au   { fill: #555555; font-family: 'Sniglet', sans-serif; font-size: 20px; text-anchor: middle; }
-    .dt   { fill: #999999; font-family: 'Sniglet', sans-serif; font-size: 15px; text-anchor: middle; }
-    .brush { opacity: 0.12; }
-  </style></defs>`, fontB64))
+    .qt   { fill: #1a1a1a; font-family: 'Sniglet', sans-serif; font-size: 20px; font-style: italic; text-anchor: middle; }
+    .mark { fill: #c8c0b8; font-family: 'Sniglet', sans-serif; font-size: 38px; text-anchor: middle; }
+    .au   { fill: #555555; font-family: 'Sniglet', sans-serif; font-size: 16px; text-anchor: middle; }
+    .dt   { fill: #999999; font-family: 'Sniglet', sans-serif; font-size: 13px; text-anchor: middle; }
+    .brush { opacity: 0.35; }
+  </style>
+  <filter id="colorize">
+    <feFlood flood-color="#c8b89a" flood-opacity="1" result="color"/>
+    <feComposite in="color" in2="SourceGraphic" operator="in"/>
+  </filter>
+  </defs>`, fontB64))
 
 	// Background
 	sb.WriteString(fmt.Sprintf("\n  <rect class=\"bg\" width=\"%d\" height=\"%d\"/>", width, height))
 
 	// Brush mask PNG overlay
-	sb.WriteString(fmt.Sprintf("\n  <image class=\"brush\" href=\"data:image/png;base64,%s\" x=\"0\" y=\"0\" width=\"%d\" height=\"%d\"/>", pngB64, width, height))
+	sb.WriteString(fmt.Sprintf("\n  <image class=\"brush\" filter=\"url(#colorize)\" href=\"data:image/png;base64,%s\" x=\"0\" y=\"0\" width=\"%d\" height=\"%d\"/>", pngB64, width, height))
 
 	// Opening quote mark
 	sb.WriteString(fmt.Sprintf("\n  <text class=\"mark\" x=\"%d\" y=\"%d\">&#10077;</text>", cx, yMark))
