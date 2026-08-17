@@ -1,10 +1,6 @@
 <div align="center">
 
-<br>
-
-# ✦ Daily Quote
-
-<br>
+![Today's Quote](header.svg)
 
 </div>
 
