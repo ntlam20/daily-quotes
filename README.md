@@ -1,16 +1,12 @@
 <div align="center">
 
-<br>
-
-# ✦ Daily Quote
-
-<br>
+![Today's Quote](header.svg)
 
 </div>
 
-> *"Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that."*
+> *"He who leaves the game wins it."*
 >
-> — **Martin Luther King, Jr.**
+> — **Nicolas Chamfort**
 
 <br>
 
