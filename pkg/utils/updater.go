@@ -59,20 +59,31 @@ func generateSVG(q Quote, date string) (string, error) {
 	const (
 		width    = 900
 		cx       = width / 2
-		quoteH   = 260 // height of quote section
 		lineH    = 32
 		maxChars = 52
-		padTop   = 28
+		hdrInset = 60 // space for in-section header
 	)
-	totalH := quoteH
 
 	lines := wrapText(q.Q, maxChars)
 
-	// Quote section y-positions
-	qyFirstLine := padTop + lineH
-	qyLastLine  := qyFirstLine + (len(lines)-1)*lineH
-	qyAuthor    := qyLastLine + 16 + 24
-	qyDate      := qyAuthor + 12 + 18
+	// Span from first line baseline to date baseline
+	contentSpan := (len(lines)-1)*lineH + 70 // 70 = author gap(40) + date gap(30)
+	// Ensure minimum padding above and below content
+	quoteH := hdrInset + contentSpan + 40
+	if quoteH < 260 {
+		quoteH = 260
+	}
+	totalH := quoteH
+
+	// Vertically center content in space below header
+	mid := hdrInset + (quoteH-hdrInset)/2
+	qyFirstLine := mid - contentSpan/2
+	if qyFirstLine < hdrInset+20 {
+		qyFirstLine = hdrInset + 20
+	}
+	qyLastLine := qyFirstLine + (len(lines)-1)*lineH
+	qyAuthor   := qyLastLine + 16 + 24
+	qyDate     := qyAuthor + 12 + 18
 
 	var sb strings.Builder
 	sb.WriteString(fmt.Sprintf(`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 %d %d" width="%d" height="%d">`, width, totalH, width, totalH))
@@ -84,6 +95,8 @@ func generateSVG(q Quote, date string) (string, error) {
         src: url('data:font/truetype;base64,%s') format('truetype');
       }
       .bg    { fill: #ffffff; }
+      .htxt  { fill: #1a1a1a; font-family: 'Sniglet', sans-serif; font-size: 26px; text-anchor: middle; dominant-baseline: middle; }
+      .hline { stroke: #e0e0e0; stroke-width: 1; }
       .qt    { fill: #1a1a1a; font-family: 'Sniglet', sans-serif; font-size: 20px; font-style: italic; text-anchor: middle; }
       .au    { fill: #555555; font-family: 'Sniglet', sans-serif; font-size: 16px; text-anchor: middle; }
       .dt    { fill: #999999; font-family: 'Sniglet', sans-serif; font-size: 13px; text-anchor: middle; }
@@ -100,6 +113,9 @@ func generateSVG(q Quote, date string) (string, error) {
 
 	// ── Quote section ──
 	sb.WriteString(fmt.Sprintf("\n  <image class=\"brush\" filter=\"url(#colorize)\" href=\"data:image/png;base64,%s\" x=\"0\" y=\"0\" width=\"%d\" height=\"%d\"/>", pngB64, width, quoteH))
+	sb.WriteString(fmt.Sprintf("\n  <line class=\"hline\" x1=\"40\" y1=\"14\" x2=\"860\" y2=\"14\"/>"))
+	sb.WriteString(fmt.Sprintf("\n  <text class=\"htxt\" x=\"%d\" y=\"38\">Today&#8217;s Quote</text>", cx))
+	sb.WriteString(fmt.Sprintf("\n  <line class=\"hline\" x1=\"40\" y1=\"60\" x2=\"860\" y2=\"60\"/>"))
 
 	for i, line := range lines {
 		y := qyFirstLine + i*lineH
