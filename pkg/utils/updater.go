@@ -96,7 +96,6 @@ func generateSVG(q Quote, date string) (string, error) {
       }
       .bg    { fill: #ffffff; }
       .htxt  { fill: #1a1a1a; font-family: 'Sniglet', sans-serif; font-size: 26px; text-anchor: middle; dominant-baseline: middle; }
-      .hline { stroke: #e0e0e0; stroke-width: 1; }
       .qt    { fill: #1a1a1a; font-family: 'Sniglet', sans-serif; font-size: 20px; font-style: italic; text-anchor: middle; }
       .au    { fill: #555555; font-family: 'Sniglet', sans-serif; font-size: 16px; text-anchor: middle; }
       .dt    { fill: #999999; font-family: 'Sniglet', sans-serif; font-size: 13px; text-anchor: middle; }
@@ -113,9 +112,7 @@ func generateSVG(q Quote, date string) (string, error) {
 
 	// ── Quote section ──
 	sb.WriteString(fmt.Sprintf("\n  <image class=\"brush\" filter=\"url(#colorize)\" href=\"data:image/png;base64,%s\" x=\"0\" y=\"0\" width=\"%d\" height=\"%d\"/>", pngB64, width, quoteH))
-	sb.WriteString(fmt.Sprintf("\n  <line class=\"hline\" x1=\"40\" y1=\"14\" x2=\"860\" y2=\"14\"/>"))
 	sb.WriteString(fmt.Sprintf("\n  <text class=\"htxt\" x=\"%d\" y=\"38\">Today&#8217;s Quote</text>", cx))
-	sb.WriteString(fmt.Sprintf("\n  <line class=\"hline\" x1=\"40\" y1=\"60\" x2=\"860\" y2=\"60\"/>"))
 
 	for i, line := range lines {
 		y := qyFirstLine + i*lineH
