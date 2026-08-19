@@ -8,11 +8,8 @@
       }
       .bg   { fill: #ffffff; }
       .text { fill: #1a1a1a; font-family: 'Sniglet', sans-serif; font-size: 26px; text-anchor: middle; dominant-baseline: middle; }
-      .line { stroke: #e0e0e0; stroke-width: 1; }
     </style>
   </defs>
   <rect class="bg" width="900" height="72"/>
-  <line class="line" x1="40" y1="14" x2="860" y2="14"/>
   <text class="text" x="450" y="40">&#10077; Today&#8217;s Quote</text>
-  <line class="line" x1="40" y1="62" x2="860" y2="62"/>
 </svg>
