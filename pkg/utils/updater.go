@@ -59,19 +59,17 @@ func generateSVG(q Quote, date string) (string, error) {
 	const (
 		width    = 900
 		cx       = width / 2
-		headerH  = 72  // height of header section
 		quoteH   = 260 // height of quote section
 		lineH    = 32
 		maxChars = 52
 		padTop   = 28
 	)
-	totalH := headerH + quoteH
+	totalH := quoteH
 
 	lines := wrapText(q.Q, maxChars)
 
-	// Quote section y-positions (offset by headerH)
-	qyMark      := headerH + padTop + 26
-	qyFirstLine := qyMark + 6 + lineH
+	// Quote section y-positions
+	qyFirstLine := padTop + lineH
 	qyLastLine  := qyFirstLine + (len(lines)-1)*lineH
 	qyAuthor    := qyLastLine + 16 + 24
 	qyDate      := qyAuthor + 12 + 18
@@ -86,10 +84,7 @@ func generateSVG(q Quote, date string) (string, error) {
         src: url('data:font/truetype;base64,%s') format('truetype');
       }
       .bg    { fill: #ffffff; }
-      .htxt  { fill: #1a1a1a; font-family: 'Sniglet', sans-serif; font-size: 26px; text-anchor: middle; dominant-baseline: middle; }
-      .hline { stroke: #e0e0e0; stroke-width: 1; }
       .qt    { fill: #1a1a1a; font-family: 'Sniglet', sans-serif; font-size: 20px; font-style: italic; text-anchor: middle; }
-      .mark  { fill: #c8c0b8; font-family: 'Sniglet', sans-serif; font-size: 38px; text-anchor: middle; }
       .au    { fill: #555555; font-family: 'Sniglet', sans-serif; font-size: 16px; text-anchor: middle; }
       .dt    { fill: #999999; font-family: 'Sniglet', sans-serif; font-size: 13px; text-anchor: middle; }
       .brush { opacity: 0.35; }
@@ -103,14 +98,8 @@ func generateSVG(q Quote, date string) (string, error) {
 	// Full background
 	sb.WriteString(fmt.Sprintf("\n  <rect class=\"bg\" width=\"%d\" height=\"%d\"/>", width, totalH))
 
-	// ── Header section ──
-	sb.WriteString(fmt.Sprintf("\n  <line class=\"hline\" x1=\"40\" y1=\"14\" x2=\"860\" y2=\"14\"/>"))
-	sb.WriteString(fmt.Sprintf("\n  <text class=\"htxt\" x=\"%d\" y=\"40\">&#10077; Today&#8217;s Quote</text>", cx))
-	sb.WriteString(fmt.Sprintf("\n  <line class=\"hline\" x1=\"40\" y1=\"62\" x2=\"860\" y2=\"62\"/>"))
-
 	// ── Quote section ──
-	sb.WriteString(fmt.Sprintf("\n  <image class=\"brush\" filter=\"url(#colorize)\" href=\"data:image/png;base64,%s\" x=\"0\" y=\"%d\" width=\"%d\" height=\"%d\"/>", pngB64, headerH, width, quoteH))
-	sb.WriteString(fmt.Sprintf("\n  <text class=\"mark\" style=\"font-size:48px\" x=\"%d\" y=\"%d\">&#10077;</text>", cx, qyMark))
+	sb.WriteString(fmt.Sprintf("\n  <image class=\"brush\" filter=\"url(#colorize)\" href=\"data:image/png;base64,%s\" x=\"0\" y=\"0\" width=\"%d\" height=\"%d\"/>", pngB64, width, quoteH))
 
 	for i, line := range lines {
 		y := qyFirstLine + i*lineH
